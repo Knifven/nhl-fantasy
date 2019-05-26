@@ -1,0 +1,18 @@
+first_name,last_name,active_position,positions,name,team,jerseyNumber,person.id,person.link,position.abbreviation
+Rick,Nash,RW,"LW,RW",Rick Nash,New York Rangers,61,8470041,/api/v1/people/8470041,RW
+Ryan,Spooner,LW,"C,LW",Ryan Spooner,Boston Bruins,51,8475727,/api/v1/people/8475727,C
+Evander,Kane,LW,LW,Evander Kane,Buffalo Sabres,9,8475169,/api/v1/people/8475169,LW
+Aleksander,Barkov,BN,C,Aleksander Barkov,Florida Panthers,16,8477493,/api/v1/people/8477493,C
+Nikita,Kucherov,RW,RW,Nikita Kucherov,Tampa Bay Lightning,86,8476453,/api/v1/people/8476453,RW
+Brayden,Point,C,"C,RW",Brayden Point,Tampa Bay Lightning,21,8478010,/api/v1/people/8478010,C
+Mikhail,Sergachev,D,D,Mikhail Sergachev,Tampa Bay Lightning,98,8479410,/api/v1/people/8479410,D
+Jake,Allen,G,G,Jake Allen,St. Louis Blues,34,8474596,/api/v1/people/8474596,G
+Sean,Monahan,C,"C,RW",Sean Monahan,Calgary Flames,23,8477497,/api/v1/people/8477497,C
+Erik,Johnson,D,D,Erik Johnson,Colorado Avalanche,6,8473446,/api/v1/people/8473446,D
+Alexander,Edler,BN,D,Alexander Edler,Vancouver Canucks,23,8471303,/api/v1/people/8471303,D
+Hampus,Lindholm,D,D,Hampus Lindholm,Anaheim Ducks,47,8476854,/api/v1/people/8476854,D
+Ben,Bishop,BN,G,Ben Bishop,Dallas Stars,30,8471750,/api/v1/people/8471750,G
+Dustin,Byfuglien,D,D,Dustin Byfuglien,Winnipeg Jets,33,8470834,/api/v1/people/8470834,D
+Mark,Scheifele,IR,C,Mark Scheifele,Winnipeg Jets,55,8476460,/api/v1/people/8476460,C
+Marc-Andre,Fleury,G,G,Marc-Andre Fleury,Vegas Golden Knights,29,8470594,/api/v1/people/8470594,G
+Reilly,Smith,BN,"LW,RW",Reilly Smith,Vegas Golden Knights,19,8475191,/api/v1/people/8475191,RW

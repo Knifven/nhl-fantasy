@@ -1,0 +1,1382 @@
+away,awayScore,date,gamePk,gameType,home,homeScore,season
+Boston Bruins,4,2018-09-15,2018010001,PR,Calgary Flames,3,20182019
+Washington Capitals,1,2018-09-16,2018010002,PR,Boston Bruins,2,20182019
+Philadelphia Flyers,0,2018-09-16,2018010003,PR,New York Islanders,3,20182019
+Arizona Coyotes,2,2018-09-16,2018010004,PR,Vegas Golden Knights,7,20182019
+Nashville Predators,5,2018-09-17,2018010005,PR,Florida Panthers,0,20182019
+Buffalo Sabres,4,2018-09-17,2018010006,PR,Columbus Blue Jackets,1,20182019
+Nashville Predators,5,2018-09-17,2018010007,PR,Florida Panthers,3,20182019
+New York Rangers,4,2018-09-17,2018010008,PR,New Jersey Devils,3,20182019
+New York Islanders,1,2018-09-17,2018010009,PR,Philadelphia Flyers,3,20182019
+New Jersey Devils,1,2018-09-17,2018010010,PR,Montréal Canadiens,3,20182019
+Minnesota Wild,1,2018-09-17,2018010011,PR,Winnipeg Jets,2,20182019
+Edmonton Oilers,7,2018-09-17,2018010012,PR,Calgary Flames,4,20182019
+Pittsburgh Penguins,2,2018-09-18,2018010013,PR,Buffalo Sabres,3,20182019
+Chicago Blackhawks,1,2018-09-18,2018010014,PR,Columbus Blue Jackets,4,20182019
+Philadelphia Flyers,5,2018-09-18,2018010015,PR,New York Islanders,1,20182019
+Boston Bruins,5,2018-09-18,2018010016,PR,Washington Capitals,2,20182019
+Carolina Hurricanes,4,2018-09-18,2018010017,PR,Tampa Bay Lightning,1,20182019
+Ottawa Senators,1,2018-09-18,2018010018,PR,Toronto Maple Leafs,4,20182019
+St. Louis Blues,3,2018-09-18,2018010019,PR,Dallas Stars,5,20182019
+Vegas Golden Knights,5,2018-09-18,2018010020,PR,Colorado Avalanche,1,20182019
+Los Angeles Kings,2,2018-09-18,2018010021,PR,Arizona Coyotes,4,20182019
+Arizona Coyotes,4,2018-09-18,2018010022,PR,Los Angeles Kings,3,20182019
+Anaheim Ducks,1,2018-09-18,2018010023,PR,San Jose Sharks,4,20182019
+Edmonton Oilers,4,2018-09-18,2018010024,PR,Vancouver Canucks,2,20182019
+Calgary Flames,1,2018-09-19,2018010025,PR,Boston Bruins,3,20182019
+Tampa Bay Lightning,1,2018-09-19,2018010026,PR,Carolina Hurricanes,6,20182019
+Philadelphia Flyers,6,2018-09-19,2018010027,PR,New York Rangers,4,20182019
+Pittsburgh Penguins,2,2018-09-19,2018010028,PR,Detroit Red Wings,3,20182019
+Florida Panthers,5,2018-09-19,2018010029,PR,Montréal Canadiens,2,20182019
+Toronto Maple Leafs,4,2018-09-19,2018010030,PR,Ottawa Senators,1,20182019
+St. Louis Blues,3,2018-09-19,2018010031,PR,Minnesota Wild,2,20182019
+Calgary Flames,4,2018-09-19,2018010032,PR,Vancouver Canucks,1,20182019
+Washington Capitals,2,2018-09-20,2018010033,PR,Montréal Canadiens,5,20182019
+New Jersey Devils,0,2018-09-20,2018010034,PR,New York Islanders,2,20182019
+Chicago Blackhawks,2,2018-09-20,2018010035,PR,Detroit Red Wings,4,20182019
+Dallas Stars,3,2018-09-20,2018010036,PR,Minnesota Wild,1,20182019
+Winnipeg Jets,3,2018-09-20,2018010037,PR,Edmonton Oilers,7,20182019
+San Jose Sharks,7,2018-09-20,2018010038,PR,Anaheim Ducks,3,20182019
+Los Angeles Kings,3,2018-09-20,2018010039,PR,Vancouver Canucks,4,20182019
+Vegas Golden Knights,7,2018-09-20,2018010040,PR,Los Angeles Kings,2,20182019
+New York Islanders,3,2018-09-21,2018010041,PR,Philadelphia Flyers,2,20182019
+Washington Capitals,1,2018-09-21,2018010042,PR,Carolina Hurricanes,5,20182019
+Chicago Blackhawks,5,2018-09-21,2018010043,PR,Ottawa Senators,2,20182019
+Buffalo Sabres,3,2018-09-21,2018010044,PR,Toronto Maple Leafs,5,20182019
+Tampa Bay Lightning,5,2018-09-21,2018010045,PR,Nashville Predators,1,20182019
+Columbus Blue Jackets,0,2018-09-21,2018010046,PR,St. Louis Blues,3,20182019
+Calgary Flames,3,2018-09-21,2018010047,PR,Winnipeg Jets,4,20182019
+Columbus Blue Jackets,3,2018-09-22,2018010048,PR,Pittsburgh Penguins,7,20182019
+Colorado Avalanche,0,2018-09-22,2018010049,PR,Minnesota Wild,7,20182019
+Toronto Maple Leafs,3,2018-09-22,2018010050,PR,Buffalo Sabres,2,20182019
+Boston Bruins,3,2018-09-22,2018010051,PR,Detroit Red Wings,4,20182019
+Ottawa Senators,2,2018-09-22,2018010052,PR,Montréal Canadiens,3,20182019
+New York Rangers,2,2018-09-22,2018010053,PR,New York Islanders,5,20182019
+Nashville Predators,2,2018-09-22,2018010054,PR,Tampa Bay Lightning,5,20182019
+Florida Panthers,4,2018-09-22,2018010055,PR,Dallas Stars,3,20182019
+Anaheim Ducks,1,2018-09-22,2018010056,PR,Arizona Coyotes,6,20182019
+Vancouver Canucks,2,2018-09-22,2018010057,PR,Calgary Flames,5,20182019
+Vegas Golden Knights,5,2018-09-22,2018010058,PR,San Jose Sharks,4,20182019
+St. Louis Blues,5,2018-09-23,2018010059,PR,Columbus Blue Jackets,1,20182019
+Detroit Red Wings,3,2018-09-23,2018010060,PR,Pittsburgh Penguins,2,20182019
+Edmonton Oilers,3,2018-09-23,2018010061,PR,Winnipeg Jets,5,20182019
+New Jersey Devils,3,2018-09-24,2018010062,PR,New York Rangers,4,20182019
+Boston Bruins,4,2018-09-24,2018010063,PR,Philadelphia Flyers,3,20182019
+Montréal Canadiens,5,2018-09-24,2018010064,PR,Toronto Maple Leafs,1,20182019
+Minnesota Wild,3,2018-09-24,2018010065,PR,Dallas Stars,5,20182019
+Winnipeg Jets,5,2018-09-24,2018010066,PR,Calgary Flames,4,20182019
+Vancouver Canucks,1,2018-09-24,2018010067,PR,Los Angeles Kings,4,20182019
+Arizona Coyotes,2,2018-09-24,2018010068,PR,Anaheim Ducks,4,20182019
+Colorado Avalanche,5,2018-09-24,2018010069,PR,Vegas Golden Knights,3,20182019
+Columbus Blue Jackets,3,2018-09-25,2018010070,PR,Buffalo Sabres,2,20182019
+Florida Panthers,3,2018-09-25,2018010071,PR,Tampa Bay Lightning,2,20182019
+Carolina Hurricanes,4,2018-09-25,2018010072,PR,Nashville Predators,1,20182019
+Washington Capitals,4,2018-09-25,2018010073,PR,St. Louis Blues,0,20182019
+Detroit Red Wings,8,2018-09-25,2018010074,PR,Chicago Blackhawks,6,20182019
+San Jose Sharks,5,2018-09-25,2018010075,PR,Calgary Flames,7,20182019
+Vancouver Canucks,0,2018-09-25,2018010076,PR,Edmonton Oilers,6,20182019
+Detroit Red Wings,3,2018-09-26,2018010077,PR,Boston Bruins,2,20182019
+New York Islanders,4,2018-09-26,2018010078,PR,New York Rangers,3,20182019
+Buffalo Sabres,1,2018-09-26,2018010079,PR,Pittsburgh Penguins,5,20182019
+Toronto Maple Leafs,5,2018-09-26,2018010080,PR,Montréal Canadiens,3,20182019
+Winnipeg Jets,3,2018-09-26,2018010081,PR,Minnesota Wild,4,20182019
+Dallas Stars,3,2018-09-26,2018010082,PR,Colorado Avalanche,1,20182019
+Los Angeles Kings,4,2018-09-26,2018010083,PR,Anaheim Ducks,7,20182019
+New York Rangers,4,2018-09-27,2018010084,PR,Philadelphia Flyers,2,20182019
+Florida Panthers,2,2018-09-27,2018010085,PR,Tampa Bay Lightning,6,20182019
+New Jersey Devils,5,2018-09-27,2018010086,PR,Winnipeg Jets,3,20182019
+Ottawa Senators,2,2018-09-27,2018010087,PR,Chicago Blackhawks,1,20182019
+Arizona Coyotes,2,2018-09-27,2018010088,PR,Edmonton Oilers,3,20182019
+Calgary Flames,4,2018-09-27,2018010089,PR,San Jose Sharks,3,20182019
+Pittsburgh Penguins,6,2018-09-28,2018010090,PR,Columbus Blue Jackets,7,20182019
+Buffalo Sabres,5,2018-09-28,2018010091,PR,New York Islanders,4,20182019
+Carolina Hurricanes,5,2018-09-28,2018010092,PR,Washington Capitals,4,20182019
+Detroit Red Wings,2,2018-09-28,2018010093,PR,Toronto Maple Leafs,6,20182019
+Dallas Stars,1,2018-09-28,2018010094,PR,St. Louis Blues,3,20182019
+Minnesota Wild,3,2018-09-28,2018010095,PR,Colorado Avalanche,4,20182019
+Los Angeles Kings,0,2018-09-28,2018010096,PR,Vegas Golden Knights,2,20182019
+Calgary Flames,3,2018-09-29,2018010097,PR,Edmonton Oilers,4,20182019
+Philadelphia Flyers,4,2018-09-29,2018010098,PR,Boston Bruins,1,20182019
+Toronto Maple Leafs,1,2018-09-29,2018010099,PR,Detroit Red Wings,5,20182019
+Tampa Bay Lightning,3,2018-09-29,2018010100,PR,Florida Panthers,2,20182019
+Montréal Canadiens,0,2018-09-29,2018010101,PR,Ottawa Senators,3,20182019
+Columbus Blue Jackets,1,2018-09-29,2018010102,PR,Chicago Blackhawks,4,20182019
+Arizona Coyotes,4,2018-09-29,2018010103,PR,Vancouver Canucks,1,20182019
+Anaheim Ducks,3,2018-09-29,2018010104,PR,Los Angeles Kings,0,20182019
+Nashville Predators,5,2018-09-30,2018010105,PR,Carolina Hurricanes,4,20182019
+St. Louis Blues,2,2018-09-30,2018010106,PR,Washington Capitals,5,20182019
+Colorado Avalanche,6,2018-09-30,2018010107,PR,Dallas Stars,5,20182019
+San Jose Sharks,2,2018-09-30,2018010108,PR,Vegas Golden Knights,5,20182019
+New Jersey Devils,3,2018-10-01,2018010109,PR,Bern Sc Bern,2,20182019
+Edmonton Oilers,4,2018-10-03,2018010110,PR,Koln Haie,3,20182019
+Montréal Canadiens,2,2018-10-03,2018020001,R,Toronto Maple Leafs,3,20182019
+Boston Bruins,0,2018-10-03,2018020002,R,Washington Capitals,7,20182019
+Calgary Flames,2,2018-10-03,2018020003,R,Vancouver Canucks,5,20182019
+Anaheim Ducks,5,2018-10-03,2018020004,R,San Jose Sharks,2,20182019
+Boston Bruins,4,2018-10-04,2018020005,R,Buffalo Sabres,0,20182019
+Washington Capitals,6,2018-10-04,2018020007,R,Pittsburgh Penguins,7,20182019
+New York Islanders,2,2018-10-04,2018020008,R,Carolina Hurricanes,1,20182019
+Nashville Predators,3,2018-10-04,2018020006,R,New York Rangers,2,20182019
+Chicago Blackhawks,4,2018-10-04,2018020009,R,Ottawa Senators,3,20182019
+Columbus Blue Jackets,3,2018-10-04,2018020010,R,Detroit Red Wings,2,20182019
+Winnipeg Jets,5,2018-10-04,2018020011,R,St. Louis Blues,1,20182019
+Arizona Coyotes,0,2018-10-04,2018020012,R,Dallas Stars,3,20182019
+Minnesota Wild,1,2018-10-04,2018020013,R,Colorado Avalanche,4,20182019
+Philadelphia Flyers,5,2018-10-04,2018020014,R,Vegas Golden Knights,2,20182019
+Carolina Hurricanes,3,2018-10-05,2018020015,R,Columbus Blue Jackets,1,20182019
+San Jose Sharks,3,2018-10-05,2018020016,R,Los Angeles Kings,2,20182019
+Edmonton Oilers,2,2018-10-06,2018020020,R,New Jersey Devils,5,20182019
+New York Rangers,1,2018-10-06,2018020017,R,Buffalo Sabres,3,20182019
+Ottawa Senators,5,2018-10-06,2018020018,R,Toronto Maple Leafs,3,20182019
+Florida Panthers,1,2018-10-06,2018020019,R,Tampa Bay Lightning,2,20182019
+Nashville Predators,4,2018-10-06,2018020021,R,New York Islanders,3,20182019
+Montréal Canadiens,5,2018-10-06,2018020022,R,Pittsburgh Penguins,1,20182019
+Winnipeg Jets,1,2018-10-06,2018020023,R,Dallas Stars,5,20182019
+Chicago Blackhawks,5,2018-10-06,2018020024,R,St. Louis Blues,4,20182019
+Vegas Golden Knights,2,2018-10-06,2018020025,R,Minnesota Wild,1,20182019
+Philadelphia Flyers,2,2018-10-06,2018020026,R,Colorado Avalanche,5,20182019
+Anaheim Ducks,1,2018-10-06,2018020027,R,Arizona Coyotes,0,20182019
+Vancouver Canucks,4,2018-10-06,2018020028,R,Calgary Flames,7,20182019
+New York Rangers,5,2018-10-07,2018020029,R,Carolina Hurricanes,8,20182019
+Toronto Maple Leafs,7,2018-10-07,2018020030,R,Chicago Blackhawks,6,20182019
+Detroit Red Wings,2,2018-10-07,2018020031,R,Los Angeles Kings,4,20182019
+Ottawa Senators,3,2018-10-08,2018020032,R,Boston Bruins,6,20182019
+San Jose Sharks,0,2018-10-08,2018020033,R,New York Islanders,4,20182019
+Vegas Golden Knights,2,2018-10-08,2018020034,R,Buffalo Sabres,4,20182019
+Detroit Red Wings,2,2018-10-08,2018020035,R,Anaheim Ducks,3,20182019
+San Jose Sharks,8,2018-10-09,2018020036,R,Philadelphia Flyers,2,20182019
+Vancouver Canucks,3,2018-10-09,2018020037,R,Carolina Hurricanes,5,20182019
+Colorado Avalanche,2,2018-10-09,2018020038,R,Columbus Blue Jackets,5,20182019
+Calgary Flames,3,2018-10-09,2018020039,R,Nashville Predators,0,20182019
+Los Angeles Kings,1,2018-10-09,2018020040,R,Winnipeg Jets,2,20182019
+Toronto Maple Leafs,7,2018-10-09,2018020041,R,Dallas Stars,4,20182019
+Philadelphia Flyers,7,2018-10-10,2018020042,R,Ottawa Senators,4,20182019
+Vegas Golden Knights,2,2018-10-10,2018020043,R,Washington Capitals,5,20182019
+Arizona Coyotes,3,2018-10-10,2018020044,R,Anaheim Ducks,2,20182019
+Edmonton Oilers,1,2018-10-11,2018020045,R,Boston Bruins,4,20182019
+Colorado Avalanche,6,2018-10-11,2018020046,R,Buffalo Sabres,1,20182019
+Columbus Blue Jackets,5,2018-10-11,2018020047,R,Florida Panthers,4,20182019
+Washington Capitals,0,2018-10-11,2018020048,R,New Jersey Devils,6,20182019
+San Jose Sharks,2,2018-10-11,2018020049,R,New York Rangers,3,20182019
+Vegas Golden Knights,2,2018-10-11,2018020050,R,Pittsburgh Penguins,4,20182019
+Los Angeles Kings,3,2018-10-11,2018020051,R,Montréal Canadiens,0,20182019
+Toronto Maple Leafs,5,2018-10-11,2018020052,R,Detroit Red Wings,3,20182019
+Vancouver Canucks,4,2018-10-11,2018020053,R,Tampa Bay Lightning,1,20182019
+Calgary Flames,3,2018-10-11,2018020054,R,St. Louis Blues,5,20182019
+Winnipeg Jets,0,2018-10-11,2018020055,R,Nashville Predators,3,20182019
+Chicago Blackhawks,3,2018-10-11,2018020056,R,Minnesota Wild,4,20182019
+Edmonton Oilers,0,2018-10-13,2018020057,R,New York Rangers,0,20182019
+Vegas Golden Knights,0,2018-10-13,2018020058,R,Philadelphia Flyers,0,20182019
+Los Angeles Kings,0,2018-10-13,2018020059,R,Ottawa Senators,0,20182019
+Detroit Red Wings,0,2018-10-13,2018020061,R,Boston Bruins,0,20182019
+Carolina Hurricanes,0,2018-10-13,2018020060,R,Minnesota Wild,0,20182019
+Pittsburgh Penguins,0,2018-10-13,2018020062,R,Montréal Canadiens,0,20182019
+Columbus Blue Jackets,0,2018-10-13,2018020063,R,Tampa Bay Lightning,0,20182019
+Vancouver Canucks,0,2018-10-13,2018020064,R,Florida Panthers,0,20182019
+Toronto Maple Leafs,0,2018-10-13,2018020065,R,Washington Capitals,0,20182019
+New York Islanders,0,2018-10-13,2018020066,R,Nashville Predators,0,20182019
+Anaheim Ducks,0,2018-10-13,2018020067,R,Dallas Stars,0,20182019
+St. Louis Blues,0,2018-10-13,2018020068,R,Chicago Blackhawks,0,20182019
+Buffalo Sabres,0,2018-10-13,2018020069,R,Arizona Coyotes,0,20182019
+Calgary Flames,0,2018-10-13,2018020070,R,Colorado Avalanche,0,20182019
+San Jose Sharks,0,2018-10-14,2018020071,R,New Jersey Devils,0,20182019
+Anaheim Ducks,0,2018-10-14,2018020072,R,St. Louis Blues,0,20182019
+Carolina Hurricanes,0,2018-10-14,2018020073,R,Winnipeg Jets,0,20182019
+Los Angeles Kings,0,2018-10-15,2018020074,R,Toronto Maple Leafs,0,20182019
+Detroit Red Wings,0,2018-10-15,2018020075,R,Montréal Canadiens,0,20182019
+Dallas Stars,0,2018-10-15,2018020076,R,Ottawa Senators,0,20182019
+Minnesota Wild,0,2018-10-15,2018020077,R,Nashville Predators,0,20182019
+Dallas Stars,0,2018-10-16,2018020078,R,New Jersey Devils,0,20182019
+Colorado Avalanche,0,2018-10-16,2018020079,R,New York Rangers,0,20182019
+Florida Panthers,0,2018-10-16,2018020080,R,Philadelphia Flyers,0,20182019
+Vancouver Canucks,0,2018-10-16,2018020081,R,Pittsburgh Penguins,0,20182019
+Carolina Hurricanes,0,2018-10-16,2018020082,R,Tampa Bay Lightning,0,20182019
+Arizona Coyotes,0,2018-10-16,2018020083,R,Minnesota Wild,0,20182019
+Edmonton Oilers,0,2018-10-16,2018020084,R,Winnipeg Jets,0,20182019
+Buffalo Sabres,0,2018-10-16,2018020085,R,Vegas Golden Knights,0,20182019
+St. Louis Blues,0,2018-10-17,2018020086,R,Montréal Canadiens,0,20182019
+New York Rangers,0,2018-10-17,2018020087,R,Washington Capitals,0,20182019
+Boston Bruins,0,2018-10-17,2018020088,R,Calgary Flames,0,20182019
+New York Islanders,0,2018-10-17,2018020089,R,Anaheim Ducks,0,20182019
+Pittsburgh Penguins,0,2018-10-18,2018020090,R,Toronto Maple Leafs,0,20182019
+Colorado Avalanche,0,2018-10-18,2018020091,R,New Jersey Devils,0,20182019
+Philadelphia Flyers,0,2018-10-18,2018020092,R,Columbus Blue Jackets,0,20182019
+Detroit Red Wings,0,2018-10-18,2018020093,R,Tampa Bay Lightning,0,20182019
+Vancouver Canucks,0,2018-10-18,2018020094,R,Winnipeg Jets,0,20182019
+Arizona Coyotes,0,2018-10-18,2018020095,R,Chicago Blackhawks,0,20182019
+Boston Bruins,0,2018-10-18,2018020096,R,Edmonton Oilers,0,20182019
+New York Islanders,0,2018-10-18,2018020097,R,Los Angeles Kings,0,20182019
+Buffalo Sabres,0,2018-10-18,2018020098,R,San Jose Sharks,0,20182019
+Florida Panthers,0,2018-10-19,2018020099,R,Washington Capitals,0,20182019
+Minnesota Wild,0,2018-10-19,2018020100,R,Dallas Stars,0,20182019
+Nashville Predators,0,2018-10-19,2018020101,R,Calgary Flames,0,20182019
+New Jersey Devils,0,2018-10-20,2018020102,R,Philadelphia Flyers,0,20182019
+Colorado Avalanche,0,2018-10-20,2018020103,R,Carolina Hurricanes,0,20182019
+Buffalo Sabres,0,2018-10-20,2018020105,R,Los Angeles Kings,0,20182019
+Arizona Coyotes,0,2018-10-20,2018020104,R,Winnipeg Jets,0,20182019
+St. Louis Blues,0,2018-10-20,2018020106,R,Toronto Maple Leafs,0,20182019
+Montréal Canadiens,0,2018-10-20,2018020107,R,Ottawa Senators,0,20182019
+Detroit Red Wings,0,2018-10-20,2018020108,R,Florida Panthers,0,20182019
+Chicago Blackhawks,0,2018-10-20,2018020109,R,Columbus Blue Jackets,0,20182019
+Tampa Bay Lightning,0,2018-10-20,2018020110,R,Minnesota Wild,0,20182019
+Nashville Predators,0,2018-10-20,2018020111,R,Edmonton Oilers,0,20182019
+Boston Bruins,0,2018-10-20,2018020112,R,Vancouver Canucks,0,20182019
+Anaheim Ducks,0,2018-10-20,2018020113,R,Vegas Golden Knights,0,20182019
+New York Islanders,0,2018-10-20,2018020114,R,San Jose Sharks,0,20182019
+Calgary Flames,0,2018-10-21,2018020115,R,New York Rangers,0,20182019
+Tampa Bay Lightning,0,2018-10-21,2018020116,R,Chicago Blackhawks,0,20182019
+Buffalo Sabres,0,2018-10-21,2018020117,R,Anaheim Ducks,0,20182019
+Colorado Avalanche,0,2018-10-22,2018020118,R,Philadelphia Flyers,0,20182019
+Carolina Hurricanes,0,2018-10-22,2018020119,R,Detroit Red Wings,0,20182019
+St. Louis Blues,0,2018-10-22,2018020120,R,Winnipeg Jets,0,20182019
+Washington Capitals,0,2018-10-22,2018020121,R,Vancouver Canucks,0,20182019
+Florida Panthers,0,2018-10-23,2018020122,R,New York Rangers,0,20182019
+Arizona Coyotes,0,2018-10-23,2018020123,R,Columbus Blue Jackets,0,20182019
+Calgary Flames,0,2018-10-23,2018020124,R,Montréal Canadiens,0,20182019
+Boston Bruins,0,2018-10-23,2018020125,R,Ottawa Senators,0,20182019
+San Jose Sharks,0,2018-10-23,2018020126,R,Nashville Predators,0,20182019
+Anaheim Ducks,0,2018-10-23,2018020127,R,Chicago Blackhawks,0,20182019
+Los Angeles Kings,0,2018-10-23,2018020128,R,Dallas Stars,0,20182019
+Pittsburgh Penguins,0,2018-10-23,2018020129,R,Edmonton Oilers,0,20182019
+Florida Panthers,0,2018-10-24,2018020130,R,New York Islanders,0,20182019
+Toronto Maple Leafs,0,2018-10-24,2018020131,R,Winnipeg Jets,0,20182019
+Tampa Bay Lightning,0,2018-10-24,2018020132,R,Colorado Avalanche,0,20182019
+Vancouver Canucks,0,2018-10-24,2018020133,R,Vegas Golden Knights,0,20182019
+Philadelphia Flyers,0,2018-10-25,2018020134,R,Boston Bruins,0,20182019
+Montréal Canadiens,0,2018-10-25,2018020135,R,Buffalo Sabres,0,20182019
+Nashville Predators,0,2018-10-25,2018020136,R,New Jersey Devils,0,20182019
+Columbus Blue Jackets,0,2018-10-25,2018020137,R,St. Louis Blues,0,20182019
+Los Angeles Kings,0,2018-10-25,2018020138,R,Minnesota Wild,0,20182019
+New York Rangers,0,2018-10-25,2018020139,R,Chicago Blackhawks,0,20182019
+Anaheim Ducks,0,2018-10-25,2018020140,R,Dallas Stars,0,20182019
+Pittsburgh Penguins,0,2018-10-25,2018020141,R,Calgary Flames,0,20182019
+Washington Capitals,0,2018-10-25,2018020142,R,Edmonton Oilers,0,20182019
+Vancouver Canucks,0,2018-10-25,2018020143,R,Arizona Coyotes,0,20182019
+Tampa Bay Lightning,0,2018-10-26,2018020144,R,Vegas Golden Knights,0,20182019
+Winnipeg Jets,0,2018-10-26,2018020145,R,Detroit Red Wings,0,20182019
+San Jose Sharks,0,2018-10-26,2018020146,R,Carolina Hurricanes,0,20182019
+Ottawa Senators,0,2018-10-26,2018020147,R,Colorado Avalanche,0,20182019
+Florida Panthers,0,2018-10-27,2018020148,R,New Jersey Devils,0,20182019
+New York Islanders,0,2018-10-27,2018020149,R,Philadelphia Flyers,0,20182019
+Edmonton Oilers,0,2018-10-27,2018020150,R,Nashville Predators,0,20182019
+Washington Capitals,0,2018-10-27,2018020151,R,Calgary Flames,0,20182019
+Montréal Canadiens,0,2018-10-27,2018020152,R,Boston Bruins,0,20182019
+Winnipeg Jets,0,2018-10-27,2018020153,R,Toronto Maple Leafs,0,20182019
+Buffalo Sabres,0,2018-10-27,2018020154,R,Columbus Blue Jackets,0,20182019
+Chicago Blackhawks,0,2018-10-27,2018020155,R,St. Louis Blues,0,20182019
+Colorado Avalanche,0,2018-10-27,2018020156,R,Minnesota Wild,0,20182019
+Tampa Bay Lightning,0,2018-10-27,2018020157,R,Arizona Coyotes,0,20182019
+Pittsburgh Penguins,0,2018-10-27,2018020158,R,Vancouver Canucks,0,20182019
+New York Rangers,0,2018-10-28,2018020159,R,Los Angeles Kings,0,20182019
+Dallas Stars,0,2018-10-28,2018020160,R,Detroit Red Wings,0,20182019
+New York Islanders,0,2018-10-28,2018020161,R,Carolina Hurricanes,0,20182019
+Edmonton Oilers,0,2018-10-28,2018020162,R,Chicago Blackhawks,0,20182019
+Ottawa Senators,0,2018-10-28,2018020163,R,Vegas Golden Knights,0,20182019
+San Jose Sharks,0,2018-10-28,2018020164,R,Anaheim Ducks,0,20182019
+Calgary Flames,0,2018-10-29,2018020165,R,Toronto Maple Leafs,0,20182019
+Minnesota Wild,0,2018-10-29,2018020166,R,Vancouver Canucks,0,20182019
+Calgary Flames,0,2018-10-30,2018020167,R,Buffalo Sabres,0,20182019
+New York Islanders,0,2018-10-30,2018020168,R,Pittsburgh Penguins,0,20182019
+Boston Bruins,0,2018-10-30,2018020169,R,Carolina Hurricanes,0,20182019
+Detroit Red Wings,0,2018-10-30,2018020170,R,Columbus Blue Jackets,0,20182019
+Dallas Stars,0,2018-10-30,2018020171,R,Montréal Canadiens,0,20182019
+New Jersey Devils,0,2018-10-30,2018020172,R,Tampa Bay Lightning,0,20182019
+Vegas Golden Knights,0,2018-10-30,2018020173,R,Nashville Predators,0,20182019
+Minnesota Wild,0,2018-10-30,2018020174,R,Edmonton Oilers,0,20182019
+Ottawa Senators,0,2018-10-30,2018020175,R,Arizona Coyotes,0,20182019
+Philadelphia Flyers,0,2018-10-30,2018020176,R,Anaheim Ducks,0,20182019
+New York Rangers,0,2018-10-30,2018020177,R,San Jose Sharks,0,20182019
+Chicago Blackhawks,0,2018-10-31,2018020178,R,Vancouver Canucks,0,20182019
+Winnipeg Jets,0,2018-11-01,2018020180,R,Florida Panthers,0,20182019
+Dallas Stars,0,2018-11-01,2018020179,R,Toronto Maple Leafs,0,20182019
+Pittsburgh Penguins,0,2018-11-01,2018020181,R,New York Islanders,0,20182019
+Washington Capitals,0,2018-11-01,2018020182,R,Montréal Canadiens,0,20182019
+Buffalo Sabres,0,2018-11-01,2018020183,R,Ottawa Senators,0,20182019
+New Jersey Devils,0,2018-11-01,2018020184,R,Detroit Red Wings,0,20182019
+Nashville Predators,0,2018-11-01,2018020185,R,Tampa Bay Lightning,0,20182019
+Vegas Golden Knights,0,2018-11-01,2018020186,R,St. Louis Blues,0,20182019
+Colorado Avalanche,0,2018-11-01,2018020187,R,Calgary Flames,0,20182019
+Chicago Blackhawks,0,2018-11-01,2018020188,R,Edmonton Oilers,0,20182019
+New York Rangers,0,2018-11-01,2018020189,R,Anaheim Ducks,0,20182019
+Philadelphia Flyers,0,2018-11-01,2018020190,R,Los Angeles Kings,0,20182019
+Columbus Blue Jackets,0,2018-11-01,2018020191,R,San Jose Sharks,0,20182019
+Florida Panthers,0,2018-11-02,2018020192,R,Winnipeg Jets,0,20182019
+Colorado Avalanche,0,2018-11-02,2018020193,R,Vancouver Canucks,0,20182019
+Carolina Hurricanes,0,2018-11-02,2018020194,R,Arizona Coyotes,0,20182019
+Ottawa Senators,0,2018-11-03,2018020195,R,Buffalo Sabres,0,20182019
+Tampa Bay Lightning,0,2018-11-03,2018020196,R,Montréal Canadiens,0,20182019
+Edmonton Oilers,0,2018-11-03,2018020197,R,Detroit Red Wings,0,20182019
+New Jersey Devils,0,2018-11-03,2018020198,R,New York Islanders,0,20182019
+Toronto Maple Leafs,0,2018-11-03,2018020199,R,Pittsburgh Penguins,0,20182019
+Dallas Stars,0,2018-11-03,2018020200,R,Washington Capitals,0,20182019
+Minnesota Wild,0,2018-11-03,2018020201,R,St. Louis Blues,0,20182019
+Boston Bruins,0,2018-11-03,2018020202,R,Nashville Predators,0,20182019
+Chicago Blackhawks,0,2018-11-03,2018020203,R,Calgary Flames,0,20182019
+Carolina Hurricanes,0,2018-11-03,2018020204,R,Vegas Golden Knights,0,20182019
+Columbus Blue Jackets,0,2018-11-03,2018020205,R,Los Angeles Kings,0,20182019
+Philadelphia Flyers,0,2018-11-03,2018020206,R,San Jose Sharks,0,20182019
+Tampa Bay Lightning,0,2018-11-04,2018020207,R,Ottawa Senators,0,20182019
+Buffalo Sabres,0,2018-11-04,2018020208,R,New York Rangers,0,20182019
+Columbus Blue Jackets,0,2018-11-04,2018020209,R,Anaheim Ducks,0,20182019
+Dallas Stars,0,2018-11-05,2018020210,R,Boston Bruins,0,20182019
+Montréal Canadiens,0,2018-11-05,2018020211,R,New York Islanders,0,20182019
+New Jersey Devils,0,2018-11-05,2018020212,R,Pittsburgh Penguins,0,20182019
+Edmonton Oilers,0,2018-11-05,2018020213,R,Washington Capitals,0,20182019
+Philadelphia Flyers,0,2018-11-05,2018020214,R,Arizona Coyotes,0,20182019
+Vegas Golden Knights,0,2018-11-06,2018020215,R,Toronto Maple Leafs,0,20182019
+Montréal Canadiens,0,2018-11-06,2018020216,R,New York Rangers,0,20182019
+Dallas Stars,0,2018-11-06,2018020217,R,Columbus Blue Jackets,0,20182019
+New Jersey Devils,0,2018-11-06,2018020218,R,Ottawa Senators,0,20182019
+Vancouver Canucks,0,2018-11-06,2018020219,R,Detroit Red Wings,0,20182019
+Edmonton Oilers,0,2018-11-06,2018020220,R,Tampa Bay Lightning,0,20182019
+Carolina Hurricanes,0,2018-11-06,2018020221,R,St. Louis Blues,0,20182019
+Anaheim Ducks,0,2018-11-06,2018020222,R,Los Angeles Kings,0,20182019
+Minnesota Wild,0,2018-11-06,2018020223,R,San Jose Sharks,0,20182019
+Pittsburgh Penguins,0,2018-11-07,2018020224,R,Washington Capitals,0,20182019
+Nashville Predators,0,2018-11-07,2018020225,R,Colorado Avalanche,0,20182019
+Calgary Flames,0,2018-11-07,2018020226,R,Anaheim Ducks,0,20182019
+Vancouver Canucks,0,2018-11-08,2018020227,R,Boston Bruins,0,20182019
+Edmonton Oilers,0,2018-11-08,2018020228,R,Florida Panthers,0,20182019
+Arizona Coyotes,0,2018-11-08,2018020229,R,Philadelphia Flyers,0,20182019
+Buffalo Sabres,0,2018-11-08,2018020230,R,Montréal Canadiens,0,20182019
+Vegas Golden Knights,0,2018-11-08,2018020231,R,Ottawa Senators,0,20182019
+New York Islanders,0,2018-11-08,2018020232,R,Tampa Bay Lightning,0,20182019
+Carolina Hurricanes,0,2018-11-08,2018020233,R,Chicago Blackhawks,0,20182019
+San Jose Sharks,0,2018-11-08,2018020234,R,Dallas Stars,0,20182019
+Minnesota Wild,0,2018-11-08,2018020235,R,Los Angeles Kings,0,20182019
+New Jersey Devils,0,2018-11-09,2018020236,R,Toronto Maple Leafs,0,20182019
+Columbus Blue Jackets,0,2018-11-09,2018020237,R,Washington Capitals,0,20182019
+New York Rangers,0,2018-11-09,2018020238,R,Detroit Red Wings,0,20182019
+San Jose Sharks,0,2018-11-09,2018020239,R,St. Louis Blues,0,20182019
+Colorado Avalanche,0,2018-11-09,2018020240,R,Winnipeg Jets,0,20182019
+Minnesota Wild,0,2018-11-09,2018020241,R,Anaheim Ducks,0,20182019
+Vancouver Canucks,0,2018-11-10,2018020242,R,Buffalo Sabres,0,20182019
+Chicago Blackhawks,0,2018-11-10,2018020243,R,Philadelphia Flyers,0,20182019
+Nashville Predators,0,2018-11-10,2018020244,R,Dallas Stars,0,20182019
+Toronto Maple Leafs,0,2018-11-10,2018020245,R,Boston Bruins,0,20182019
+Vegas Golden Knights,0,2018-11-10,2018020246,R,Montréal Canadiens,0,20182019
+Ottawa Senators,0,2018-11-10,2018020247,R,Tampa Bay Lightning,0,20182019
+New York Islanders,0,2018-11-10,2018020248,R,Florida Panthers,0,20182019
+Arizona Coyotes,0,2018-11-10,2018020249,R,Pittsburgh Penguins,0,20182019
+Detroit Red Wings,0,2018-11-10,2018020250,R,Carolina Hurricanes,0,20182019
+New York Rangers,0,2018-11-10,2018020251,R,Columbus Blue Jackets,0,20182019
+Calgary Flames,0,2018-11-10,2018020252,R,Los Angeles Kings,0,20182019
+Minnesota Wild,0,2018-11-11,2018020253,R,St. Louis Blues,0,20182019
+Ottawa Senators,0,2018-11-11,2018020254,R,Florida Panthers,0,20182019
+Arizona Coyotes,0,2018-11-11,2018020255,R,Washington Capitals,0,20182019
+Vegas Golden Knights,0,2018-11-11,2018020256,R,Boston Bruins,0,20182019
+New Jersey Devils,0,2018-11-11,2018020257,R,Winnipeg Jets,0,20182019
+Calgary Flames,0,2018-11-11,2018020258,R,San Jose Sharks,0,20182019
+Colorado Avalanche,0,2018-11-11,2018020259,R,Edmonton Oilers,0,20182019
+Vancouver Canucks,0,2018-11-12,2018020260,R,New York Rangers,0,20182019
+Chicago Blackhawks,0,2018-11-12,2018020261,R,Carolina Hurricanes,0,20182019
+Columbus Blue Jackets,0,2018-11-12,2018020262,R,Dallas Stars,0,20182019
+Nashville Predators,0,2018-11-12,2018020263,R,Anaheim Ducks,0,20182019
+Pittsburgh Penguins,0,2018-11-13,2018020265,R,New Jersey Devils,0,20182019
+Vancouver Canucks,0,2018-11-13,2018020266,R,New York Islanders,0,20182019
+Florida Panthers,0,2018-11-13,2018020267,R,Philadelphia Flyers,0,20182019
+Tampa Bay Lightning,0,2018-11-13,2018020264,R,Buffalo Sabres,0,20182019
+Arizona Coyotes,0,2018-11-13,2018020268,R,Detroit Red Wings,0,20182019
+Washington Capitals,0,2018-11-13,2018020269,R,Minnesota Wild,0,20182019
+Montréal Canadiens,0,2018-11-13,2018020270,R,Edmonton Oilers,0,20182019
+Toronto Maple Leafs,0,2018-11-13,2018020271,R,Los Angeles Kings,0,20182019
+Nashville Predators,0,2018-11-13,2018020272,R,San Jose Sharks,0,20182019
+St. Louis Blues,0,2018-11-14,2018020273,R,Chicago Blackhawks,0,20182019
+Washington Capitals,0,2018-11-14,2018020274,R,Winnipeg Jets,0,20182019
+Boston Bruins,0,2018-11-14,2018020275,R,Colorado Avalanche,0,20182019
+Anaheim Ducks,0,2018-11-14,2018020276,R,Vegas Golden Knights,0,20182019
+New York Rangers,0,2018-11-15,2018020277,R,New York Islanders,0,20182019
+New Jersey Devils,0,2018-11-15,2018020278,R,Philadelphia Flyers,0,20182019
+Tampa Bay Lightning,0,2018-11-15,2018020279,R,Pittsburgh Penguins,0,20182019
+Florida Panthers,0,2018-11-15,2018020280,R,Columbus Blue Jackets,0,20182019
+Detroit Red Wings,0,2018-11-15,2018020281,R,Ottawa Senators,0,20182019
+Vancouver Canucks,0,2018-11-15,2018020282,R,Minnesota Wild,0,20182019
+Montréal Canadiens,0,2018-11-15,2018020283,R,Calgary Flames,0,20182019
+Nashville Predators,0,2018-11-15,2018020284,R,Arizona Coyotes,0,20182019
+Toronto Maple Leafs,0,2018-11-15,2018020285,R,San Jose Sharks,0,20182019
+Boston Bruins,0,2018-11-16,2018020286,R,Dallas Stars,0,20182019
+Buffalo Sabres,0,2018-11-16,2018020287,R,Winnipeg Jets,0,20182019
+Los Angeles Kings,0,2018-11-16,2018020288,R,Chicago Blackhawks,0,20182019
+Washington Capitals,0,2018-11-16,2018020289,R,Colorado Avalanche,0,20182019
+St. Louis Blues,0,2018-11-16,2018020290,R,Vegas Golden Knights,0,20182019
+Toronto Maple Leafs,0,2018-11-16,2018020291,R,Anaheim Ducks,0,20182019
+Detroit Red Wings,0,2018-11-17,2018020292,R,New Jersey Devils,0,20182019
+Tampa Bay Lightning,0,2018-11-17,2018020293,R,Philadelphia Flyers,0,20182019
+Buffalo Sabres,0,2018-11-17,2018020294,R,Minnesota Wild,0,20182019
+Pittsburgh Penguins,0,2018-11-17,2018020295,R,Ottawa Senators,0,20182019
+Florida Panthers,0,2018-11-17,2018020296,R,New York Rangers,0,20182019
+Columbus Blue Jackets,0,2018-11-17,2018020297,R,Carolina Hurricanes,0,20182019
+Montréal Canadiens,0,2018-11-17,2018020298,R,Vancouver Canucks,0,20182019
+Los Angeles Kings,0,2018-11-17,2018020299,R,Nashville Predators,0,20182019
+Boston Bruins,0,2018-11-17,2018020300,R,Arizona Coyotes,0,20182019
+Edmonton Oilers,0,2018-11-17,2018020301,R,Calgary Flames,0,20182019
+St. Louis Blues,0,2018-11-17,2018020302,R,San Jose Sharks,0,20182019
+Dallas Stars,0,2018-11-18,2018020303,R,New York Islanders,0,20182019
+New Jersey Devils,0,2018-11-18,2018020304,R,Carolina Hurricanes,0,20182019
+Minnesota Wild,0,2018-11-18,2018020305,R,Chicago Blackhawks,0,20182019
+Vegas Golden Knights,0,2018-11-18,2018020306,R,Edmonton Oilers,0,20182019
+Colorado Avalanche,0,2018-11-18,2018020307,R,Anaheim Ducks,0,20182019
+Columbus Blue Jackets,0,2018-11-19,2018020308,R,Toronto Maple Leafs,0,20182019
+Dallas Stars,0,2018-11-19,2018020309,R,New York Rangers,0,20182019
+Buffalo Sabres,0,2018-11-19,2018020310,R,Pittsburgh Penguins,0,20182019
+Washington Capitals,0,2018-11-19,2018020311,R,Montréal Canadiens,0,20182019
+Florida Panthers,0,2018-11-19,2018020312,R,Ottawa Senators,0,20182019
+Los Angeles Kings,0,2018-11-19,2018020313,R,St. Louis Blues,0,20182019
+Tampa Bay Lightning,0,2018-11-19,2018020314,R,Nashville Predators,0,20182019
+Vegas Golden Knights,0,2018-11-19,2018020315,R,Calgary Flames,0,20182019
+Winnipeg Jets,0,2018-11-19,2018020316,R,Vancouver Canucks,0,20182019
+Edmonton Oilers,0,2018-11-20,2018020317,R,San Jose Sharks,0,20182019
+Montréal Canadiens,0,2018-11-21,2018020319,R,New Jersey Devils,0,20182019
+New York Islanders,0,2018-11-21,2018020320,R,New York Rangers,0,20182019
+Dallas Stars,0,2018-11-21,2018020321,R,Pittsburgh Penguins,0,20182019
+Chicago Blackhawks,0,2018-11-21,2018020322,R,Washington Capitals,0,20182019
+Toronto Maple Leafs,0,2018-11-21,2018020323,R,Carolina Hurricanes,0,20182019
+Philadelphia Flyers,0,2018-11-21,2018020318,R,Buffalo Sabres,0,20182019
+Boston Bruins,0,2018-11-21,2018020324,R,Detroit Red Wings,0,20182019
+Florida Panthers,0,2018-11-21,2018020325,R,Tampa Bay Lightning,0,20182019
+St. Louis Blues,0,2018-11-21,2018020326,R,Nashville Predators,0,20182019
+Ottawa Senators,0,2018-11-21,2018020327,R,Minnesota Wild,0,20182019
+Vegas Golden Knights,0,2018-11-21,2018020328,R,Arizona Coyotes,0,20182019
+Winnipeg Jets,0,2018-11-21,2018020329,R,Calgary Flames,0,20182019
+Vancouver Canucks,0,2018-11-21,2018020330,R,Anaheim Ducks,0,20182019
+Colorado Avalanche,0,2018-11-21,2018020331,R,Los Angeles Kings,0,20182019
+New York Rangers,0,2018-11-23,2018020332,R,Philadelphia Flyers,0,20182019
+Montréal Canadiens,0,2018-11-23,2018020333,R,Buffalo Sabres,0,20182019
+New York Islanders,0,2018-11-23,2018020334,R,New Jersey Devils,0,20182019
+Detroit Red Wings,0,2018-11-23,2018020335,R,Washington Capitals,0,20182019
+Winnipeg Jets,0,2018-11-23,2018020336,R,Minnesota Wild,0,20182019
+Edmonton Oilers,0,2018-11-23,2018020337,R,Anaheim Ducks,0,20182019
+Calgary Flames,0,2018-11-23,2018020338,R,Vegas Golden Knights,0,20182019
+Toronto Maple Leafs,0,2018-11-23,2018020339,R,Columbus Blue Jackets,0,20182019
+Pittsburgh Penguins,0,2018-11-23,2018020340,R,Boston Bruins,0,20182019
+Chicago Blackhawks,0,2018-11-23,2018020341,R,Tampa Bay Lightning,0,20182019
+Florida Panthers,0,2018-11-23,2018020342,R,Carolina Hurricanes,0,20182019
+Nashville Predators,0,2018-11-23,2018020343,R,St. Louis Blues,0,20182019
+Ottawa Senators,0,2018-11-23,2018020344,R,Dallas Stars,0,20182019
+Colorado Avalanche,0,2018-11-23,2018020345,R,Arizona Coyotes,0,20182019
+Vancouver Canucks,0,2018-11-23,2018020346,R,San Jose Sharks,0,20182019
+Washington Capitals,0,2018-11-24,2018020347,R,New York Rangers,0,20182019
+Philadelphia Flyers,0,2018-11-24,2018020348,R,Toronto Maple Leafs,0,20182019
+Boston Bruins,0,2018-11-24,2018020349,R,Montréal Canadiens,0,20182019
+Buffalo Sabres,0,2018-11-24,2018020350,R,Detroit Red Wings,0,20182019
+Chicago Blackhawks,0,2018-11-24,2018020351,R,Florida Panthers,0,20182019
+Carolina Hurricanes,0,2018-11-24,2018020352,R,New York Islanders,0,20182019
+Columbus Blue Jackets,0,2018-11-24,2018020353,R,Pittsburgh Penguins,0,20182019
+Winnipeg Jets,0,2018-11-24,2018020354,R,St. Louis Blues,0,20182019
+Dallas Stars,0,2018-11-24,2018020355,R,Colorado Avalanche,0,20182019
+San Jose Sharks,0,2018-11-24,2018020356,R,Vegas Golden Knights,0,20182019
+Vancouver Canucks,0,2018-11-24,2018020357,R,Los Angeles Kings,0,20182019
+Calgary Flames,0,2018-11-25,2018020358,R,Arizona Coyotes,0,20182019
+New Jersey Devils,0,2018-11-25,2018020359,R,Tampa Bay Lightning,0,20182019
+Anaheim Ducks,0,2018-11-25,2018020360,R,Nashville Predators,0,20182019
+Edmonton Oilers,0,2018-11-25,2018020361,R,Los Angeles Kings,0,20182019
+Boston Bruins,0,2018-11-26,2018020362,R,Toronto Maple Leafs,0,20182019
+New Jersey Devils,0,2018-11-26,2018020363,R,Florida Panthers,0,20182019
+Washington Capitals,0,2018-11-26,2018020364,R,New York Islanders,0,20182019
+Ottawa Senators,0,2018-11-26,2018020365,R,New York Rangers,0,20182019
+Columbus Blue Jackets,0,2018-11-26,2018020366,R,Detroit Red Wings,0,20182019
+San Jose Sharks,0,2018-11-27,2018020367,R,Buffalo Sabres,0,20182019
+Ottawa Senators,0,2018-11-27,2018020368,R,Philadelphia Flyers,0,20182019
+Carolina Hurricanes,0,2018-11-27,2018020369,R,Montréal Canadiens,0,20182019
+Anaheim Ducks,0,2018-11-27,2018020370,R,Tampa Bay Lightning,0,20182019
+Colorado Avalanche,0,2018-11-27,2018020371,R,Nashville Predators,0,20182019
+Arizona Coyotes,0,2018-11-27,2018020372,R,Minnesota Wild,0,20182019
+Pittsburgh Penguins,0,2018-11-27,2018020373,R,Winnipeg Jets,0,20182019
+Vegas Golden Knights,0,2018-11-27,2018020374,R,Chicago Blackhawks,0,20182019
+Dallas Stars,0,2018-11-27,2018020375,R,Edmonton Oilers,0,20182019
+Los Angeles Kings,0,2018-11-27,2018020376,R,Vancouver Canucks,0,20182019
+St. Louis Blues,0,2018-11-28,2018020377,R,Detroit Red Wings,0,20182019
+Anaheim Ducks,0,2018-11-28,2018020378,R,Florida Panthers,0,20182019
+San Jose Sharks,0,2018-11-28,2018020379,R,Toronto Maple Leafs,0,20182019
+Dallas Stars,0,2018-11-28,2018020380,R,Calgary Flames,0,20182019
+Pittsburgh Penguins,0,2018-11-28,2018020381,R,Colorado Avalanche,0,20182019
+New York Islanders,0,2018-11-29,2018020382,R,Boston Bruins,0,20182019
+Minnesota Wild,0,2018-11-29,2018020383,R,Columbus Blue Jackets,0,20182019
+New York Rangers,0,2018-11-29,2018020384,R,Ottawa Senators,0,20182019
+Buffalo Sabres,0,2018-11-29,2018020385,R,Tampa Bay Lightning,0,20182019
+Arizona Coyotes,0,2018-11-29,2018020386,R,Nashville Predators,0,20182019
+Chicago Blackhawks,0,2018-11-29,2018020387,R,Winnipeg Jets,0,20182019
+Los Angeles Kings,0,2018-11-29,2018020388,R,Edmonton Oilers,0,20182019
+Vegas Golden Knights,0,2018-11-29,2018020389,R,Vancouver Canucks,0,20182019
+Buffalo Sabres,0,2018-11-30,2018020390,R,Florida Panthers,0,20182019
+New Jersey Devils,0,2018-11-30,2018020391,R,Washington Capitals,0,20182019
+Anaheim Ducks,0,2018-11-30,2018020392,R,Carolina Hurricanes,0,20182019
+St. Louis Blues,0,2018-11-30,2018020393,R,Colorado Avalanche,0,20182019
+Los Angeles Kings,0,2018-11-30,2018020394,R,Calgary Flames,0,20182019
+San Jose Sharks,0,2018-12-01,2018020395,R,Ottawa Senators,0,20182019
+Dallas Stars,0,2018-12-01,2018020396,R,Vancouver Canucks,0,20182019
+Detroit Red Wings,0,2018-12-01,2018020397,R,Boston Bruins,0,20182019
+New York Rangers,0,2018-12-01,2018020398,R,Montréal Canadiens,0,20182019
+Tampa Bay Lightning,0,2018-12-01,2018020399,R,Florida Panthers,0,20182019
+Winnipeg Jets,0,2018-12-01,2018020400,R,New Jersey Devils,0,20182019
+Columbus Blue Jackets,0,2018-12-01,2018020401,R,New York Islanders,0,20182019
+Philadelphia Flyers,0,2018-12-01,2018020402,R,Pittsburgh Penguins,0,20182019
+Toronto Maple Leafs,0,2018-12-01,2018020403,R,Minnesota Wild,0,20182019
+Chicago Blackhawks,0,2018-12-01,2018020404,R,Nashville Predators,0,20182019
+St. Louis Blues,0,2018-12-01,2018020405,R,Arizona Coyotes,0,20182019
+Vegas Golden Knights,0,2018-12-01,2018020406,R,Edmonton Oilers,0,20182019
+Anaheim Ducks,0,2018-12-02,2018020407,R,Washington Capitals,0,20182019
+Winnipeg Jets,0,2018-12-02,2018020408,R,New York Rangers,0,20182019
+San Jose Sharks,0,2018-12-02,2018020409,R,Montréal Canadiens,0,20182019
+Colorado Avalanche,0,2018-12-02,2018020410,R,Detroit Red Wings,0,20182019
+Calgary Flames,0,2018-12-02,2018020411,R,Chicago Blackhawks,0,20182019
+Carolina Hurricanes,0,2018-12-02,2018020412,R,Los Angeles Kings,0,20182019
+Tampa Bay Lightning,0,2018-12-03,2018020413,R,New Jersey Devils,0,20182019
+Buffalo Sabres,0,2018-12-03,2018020414,R,Nashville Predators,0,20182019
+Edmonton Oilers,0,2018-12-03,2018020415,R,Dallas Stars,0,20182019
+Boston Bruins,0,2018-12-04,2018020417,R,Florida Panthers,0,20182019
+Winnipeg Jets,0,2018-12-04,2018020418,R,New York Islanders,0,20182019
+Colorado Avalanche,0,2018-12-04,2018020419,R,Pittsburgh Penguins,0,20182019
+Calgary Flames,0,2018-12-04,2018020420,R,Columbus Blue Jackets,0,20182019
+Toronto Maple Leafs,0,2018-12-04,2018020416,R,Buffalo Sabres,0,20182019
+Ottawa Senators,0,2018-12-04,2018020421,R,Montréal Canadiens,0,20182019
+Tampa Bay Lightning,0,2018-12-04,2018020422,R,Detroit Red Wings,0,20182019
+Minnesota Wild,0,2018-12-04,2018020423,R,Vancouver Canucks,0,20182019
+Washington Capitals,0,2018-12-04,2018020424,R,Vegas Golden Knights,0,20182019
+Arizona Coyotes,0,2018-12-04,2018020425,R,Los Angeles Kings,0,20182019
+Edmonton Oilers,0,2018-12-05,2018020426,R,St. Louis Blues,0,20182019
+Chicago Blackhawks,0,2018-12-05,2018020427,R,Anaheim Ducks,0,20182019
+Carolina Hurricanes,0,2018-12-05,2018020428,R,San Jose Sharks,0,20182019
+Detroit Red Wings,0,2018-12-06,2018020429,R,Toronto Maple Leafs,0,20182019
+Colorado Avalanche,0,2018-12-06,2018020430,R,Florida Panthers,0,20182019
+Columbus Blue Jackets,0,2018-12-06,2018020431,R,Philadelphia Flyers,0,20182019
+New York Islanders,0,2018-12-06,2018020432,R,Pittsburgh Penguins,0,20182019
+Montréal Canadiens,0,2018-12-06,2018020433,R,Ottawa Senators,0,20182019
+Boston Bruins,0,2018-12-06,2018020434,R,Tampa Bay Lightning,0,20182019
+Minnesota Wild,0,2018-12-06,2018020435,R,Calgary Flames,0,20182019
+Washington Capitals,0,2018-12-06,2018020436,R,Arizona Coyotes,0,20182019
+Nashville Predators,0,2018-12-06,2018020437,R,Vancouver Canucks,0,20182019
+Chicago Blackhawks,0,2018-12-06,2018020438,R,Vegas Golden Knights,0,20182019
+New Jersey Devils,0,2018-12-06,2018020439,R,Los Angeles Kings,0,20182019
+San Jose Sharks,0,2018-12-07,2018020440,R,Dallas Stars,0,20182019
+St. Louis Blues,0,2018-12-07,2018020441,R,Winnipeg Jets,0,20182019
+Minnesota Wild,0,2018-12-07,2018020442,R,Edmonton Oilers,0,20182019
+Carolina Hurricanes,0,2018-12-07,2018020443,R,Anaheim Ducks,0,20182019
+Philadelphia Flyers,0,2018-12-08,2018020444,R,Buffalo Sabres,0,20182019
+Vegas Golden Knights,0,2018-12-08,2018020445,R,Los Angeles Kings,0,20182019
+Toronto Maple Leafs,0,2018-12-08,2018020446,R,Boston Bruins,0,20182019
+Pittsburgh Penguins,0,2018-12-08,2018020447,R,Ottawa Senators,0,20182019
+New York Islanders,0,2018-12-08,2018020448,R,Detroit Red Wings,0,20182019
+Colorado Avalanche,0,2018-12-08,2018020449,R,Tampa Bay Lightning,0,20182019
+New York Rangers,0,2018-12-08,2018020450,R,Florida Panthers,0,20182019
+Washington Capitals,0,2018-12-08,2018020451,R,Columbus Blue Jackets,0,20182019
+San Jose Sharks,0,2018-12-08,2018020452,R,Arizona Coyotes,0,20182019
+Nashville Predators,0,2018-12-08,2018020453,R,Calgary Flames,0,20182019
+Vancouver Canucks,0,2018-12-09,2018020454,R,St. Louis Blues,0,20182019
+Philadelphia Flyers,0,2018-12-09,2018020455,R,Winnipeg Jets,0,20182019
+Boston Bruins,0,2018-12-09,2018020456,R,Ottawa Senators,0,20182019
+Montréal Canadiens,0,2018-12-09,2018020457,R,Chicago Blackhawks,0,20182019
+New Jersey Devils,0,2018-12-09,2018020458,R,Anaheim Ducks,0,20182019
+Calgary Flames,0,2018-12-09,2018020459,R,Edmonton Oilers,0,20182019
+Dallas Stars,0,2018-12-09,2018020460,R,Vegas Golden Knights,0,20182019
+Pittsburgh Penguins,0,2018-12-10,2018020461,R,New York Islanders,0,20182019
+Los Angeles Kings,0,2018-12-10,2018020462,R,Detroit Red Wings,0,20182019
+New York Rangers,0,2018-12-10,2018020463,R,Tampa Bay Lightning,0,20182019
+New Jersey Devils,0,2018-12-10,2018020464,R,San Jose Sharks,0,20182019
+Arizona Coyotes,0,2018-12-11,2018020465,R,Boston Bruins,0,20182019
+Los Angeles Kings,0,2018-12-11,2018020466,R,Buffalo Sabres,0,20182019
+Toronto Maple Leafs,0,2018-12-11,2018020468,R,Carolina Hurricanes,0,20182019
+Vancouver Canucks,0,2018-12-11,2018020469,R,Columbus Blue Jackets,0,20182019
+Detroit Red Wings,0,2018-12-11,2018020467,R,Washington Capitals,0,20182019
+Florida Panthers,0,2018-12-11,2018020470,R,St. Louis Blues,0,20182019
+Ottawa Senators,0,2018-12-11,2018020471,R,Nashville Predators,0,20182019
+Montréal Canadiens,0,2018-12-11,2018020472,R,Minnesota Wild,0,20182019
+Chicago Blackhawks,0,2018-12-11,2018020473,R,Winnipeg Jets,0,20182019
+Edmonton Oilers,0,2018-12-11,2018020474,R,Colorado Avalanche,0,20182019
+Vegas Golden Knights,0,2018-12-12,2018020475,R,New York Islanders,0,20182019
+Pittsburgh Penguins,0,2018-12-12,2018020476,R,Chicago Blackhawks,0,20182019
+Philadelphia Flyers,0,2018-12-12,2018020477,R,Calgary Flames,0,20182019
+Dallas Stars,0,2018-12-12,2018020478,R,Anaheim Ducks,0,20182019
+Arizona Coyotes,0,2018-12-13,2018020479,R,Buffalo Sabres,0,20182019
+Los Angeles Kings,0,2018-12-13,2018020480,R,Columbus Blue Jackets,0,20182019
+Carolina Hurricanes,0,2018-12-13,2018020481,R,Montréal Canadiens,0,20182019
+Toronto Maple Leafs,0,2018-12-13,2018020482,R,Tampa Bay Lightning,0,20182019
+Vancouver Canucks,0,2018-12-13,2018020483,R,Nashville Predators,0,20182019
+Florida Panthers,0,2018-12-13,2018020484,R,Minnesota Wild,0,20182019
+Edmonton Oilers,0,2018-12-13,2018020485,R,Winnipeg Jets,0,20182019
+Dallas Stars,0,2018-12-13,2018020486,R,San Jose Sharks,0,20182019
+Vegas Golden Knights,0,2018-12-14,2018020487,R,New Jersey Devils,0,20182019
+Arizona Coyotes,0,2018-12-14,2018020488,R,New York Rangers,0,20182019
+Boston Bruins,0,2018-12-14,2018020489,R,Pittsburgh Penguins,0,20182019
+Ottawa Senators,0,2018-12-14,2018020490,R,Detroit Red Wings,0,20182019
+Washington Capitals,0,2018-12-14,2018020491,R,Carolina Hurricanes,0,20182019
+Colorado Avalanche,0,2018-12-14,2018020492,R,St. Louis Blues,0,20182019
+Winnipeg Jets,0,2018-12-14,2018020493,R,Chicago Blackhawks,0,20182019
+Philadelphia Flyers,0,2018-12-14,2018020494,R,Edmonton Oilers,0,20182019
+Calgary Flames,0,2018-12-15,2018020495,R,Minnesota Wild,0,20182019
+Ottawa Senators,0,2018-12-15,2018020496,R,Montréal Canadiens,0,20182019
+Toronto Maple Leafs,0,2018-12-15,2018020497,R,Florida Panthers,0,20182019
+Detroit Red Wings,0,2018-12-15,2018020498,R,New York Islanders,0,20182019
+Los Angeles Kings,0,2018-12-15,2018020499,R,Pittsburgh Penguins,0,20182019
+Buffalo Sabres,0,2018-12-15,2018020500,R,Washington Capitals,0,20182019
+Anaheim Ducks,0,2018-12-15,2018020501,R,Columbus Blue Jackets,0,20182019
+New Jersey Devils,0,2018-12-15,2018020502,R,Nashville Predators,0,20182019
+Dallas Stars,0,2018-12-15,2018020503,R,Colorado Avalanche,0,20182019
+Philadelphia Flyers,0,2018-12-15,2018020504,R,Vancouver Canucks,0,20182019
+Vegas Golden Knights,0,2018-12-16,2018020505,R,New York Rangers,0,20182019
+Arizona Coyotes,0,2018-12-16,2018020506,R,Carolina Hurricanes,0,20182019
+Calgary Flames,0,2018-12-16,2018020507,R,St. Louis Blues,0,20182019
+Buffalo Sabres,0,2018-12-16,2018020508,R,Boston Bruins,0,20182019
+San Jose Sharks,0,2018-12-16,2018020509,R,Chicago Blackhawks,0,20182019
+Tampa Bay Lightning,0,2018-12-16,2018020510,R,Winnipeg Jets,0,20182019
+Edmonton Oilers,0,2018-12-16,2018020511,R,Vancouver Canucks,0,20182019
+Anaheim Ducks,0,2018-12-17,2018020512,R,Pittsburgh Penguins,0,20182019
+Vegas Golden Knights,0,2018-12-17,2018020513,R,Columbus Blue Jackets,0,20182019
+Boston Bruins,0,2018-12-17,2018020514,R,Montréal Canadiens,0,20182019
+Nashville Predators,0,2018-12-17,2018020515,R,Ottawa Senators,0,20182019
+New York Islanders,0,2018-12-17,2018020516,R,Colorado Avalanche,0,20182019
+Florida Panthers,0,2018-12-18,2018020517,R,Buffalo Sabres,0,20182019
+Toronto Maple Leafs,0,2018-12-18,2018020518,R,New Jersey Devils,0,20182019
+Anaheim Ducks,0,2018-12-18,2018020519,R,New York Rangers,0,20182019
+Detroit Red Wings,0,2018-12-18,2018020520,R,Philadelphia Flyers,0,20182019
+San Jose Sharks,0,2018-12-18,2018020521,R,Minnesota Wild,0,20182019
+Nashville Predators,0,2018-12-18,2018020522,R,Chicago Blackhawks,0,20182019
+Calgary Flames,0,2018-12-18,2018020523,R,Dallas Stars,0,20182019
+St. Louis Blues,0,2018-12-18,2018020524,R,Edmonton Oilers,0,20182019
+New York Islanders,0,2018-12-18,2018020525,R,Arizona Coyotes,0,20182019
+Tampa Bay Lightning,0,2018-12-18,2018020526,R,Vancouver Canucks,0,20182019
+Winnipeg Jets,0,2018-12-18,2018020527,R,Los Angeles Kings,0,20182019
+Pittsburgh Penguins,0,2018-12-19,2018020528,R,Washington Capitals,0,20182019
+Montréal Canadiens,0,2018-12-19,2018020529,R,Colorado Avalanche,0,20182019
+Anaheim Ducks,0,2018-12-20,2018020530,R,Boston Bruins,0,20182019
+Florida Panthers,0,2018-12-20,2018020531,R,Toronto Maple Leafs,0,20182019
+Nashville Predators,0,2018-12-20,2018020532,R,Philadelphia Flyers,0,20182019
+Minnesota Wild,0,2018-12-20,2018020533,R,Pittsburgh Penguins,0,20182019
+Detroit Red Wings,0,2018-12-20,2018020534,R,Carolina Hurricanes,0,20182019
+New Jersey Devils,0,2018-12-20,2018020535,R,Columbus Blue Jackets,0,20182019
+Chicago Blackhawks,0,2018-12-20,2018020536,R,Dallas Stars,0,20182019
+Tampa Bay Lightning,0,2018-12-20,2018020537,R,Calgary Flames,0,20182019
+Montréal Canadiens,0,2018-12-20,2018020538,R,Arizona Coyotes,0,20182019
+St. Louis Blues,0,2018-12-20,2018020539,R,Vancouver Canucks,0,20182019
+New York Islanders,0,2018-12-20,2018020540,R,Vegas Golden Knights,0,20182019
+Winnipeg Jets,0,2018-12-20,2018020541,R,San Jose Sharks,0,20182019
+Ottawa Senators,0,2018-12-21,2018020542,R,New Jersey Devils,0,20182019
+Buffalo Sabres,0,2018-12-21,2018020543,R,Washington Capitals,0,20182019
+Chicago Blackhawks,0,2018-12-21,2018020544,R,Colorado Avalanche,0,20182019
+Nashville Predators,0,2018-12-22,2018020545,R,Boston Bruins,0,20182019
+Columbus Blue Jackets,0,2018-12-22,2018020546,R,Philadelphia Flyers,0,20182019
+Florida Panthers,0,2018-12-22,2018020547,R,Detroit Red Wings,0,20182019
+St. Louis Blues,0,2018-12-22,2018020548,R,Calgary Flames,0,20182019
+Montréal Canadiens,0,2018-12-22,2018020549,R,Vegas Golden Knights,0,20182019
+Los Angeles Kings,0,2018-12-22,2018020550,R,San Jose Sharks,0,20182019
+Anaheim Ducks,0,2018-12-22,2018020551,R,Buffalo Sabres,0,20182019
+New York Rangers,0,2018-12-22,2018020552,R,Toronto Maple Leafs,0,20182019
+Washington Capitals,0,2018-12-22,2018020553,R,Ottawa Senators,0,20182019
+Pittsburgh Penguins,0,2018-12-22,2018020554,R,Carolina Hurricanes,0,20182019
+Colorado Avalanche,0,2018-12-22,2018020555,R,Arizona Coyotes,0,20182019
+Dallas Stars,0,2018-12-22,2018020556,R,Minnesota Wild,0,20182019
+Tampa Bay Lightning,0,2018-12-22,2018020557,R,Edmonton Oilers,0,20182019
+Winnipeg Jets,0,2018-12-22,2018020558,R,Vancouver Canucks,0,20182019
+Columbus Blue Jackets,0,2018-12-23,2018020559,R,New Jersey Devils,0,20182019
+Boston Bruins,0,2018-12-23,2018020560,R,Carolina Hurricanes,0,20182019
+Philadelphia Flyers,0,2018-12-23,2018020561,R,New York Rangers,0,20182019
+Florida Panthers,0,2018-12-23,2018020562,R,Chicago Blackhawks,0,20182019
+Detroit Red Wings,0,2018-12-23,2018020563,R,Toronto Maple Leafs,0,20182019
+New York Islanders,0,2018-12-23,2018020564,R,Dallas Stars,0,20182019
+Los Angeles Kings,0,2018-12-23,2018020565,R,Vegas Golden Knights,0,20182019
+Arizona Coyotes,0,2018-12-23,2018020566,R,San Jose Sharks,0,20182019
+New Jersey Devils,0,2018-12-27,2018020567,R,Boston Bruins,0,20182019
+Columbus Blue Jackets,0,2018-12-27,2018020568,R,New York Rangers,0,20182019
+Detroit Red Wings,0,2018-12-27,2018020569,R,Pittsburgh Penguins,0,20182019
+Carolina Hurricanes,0,2018-12-27,2018020570,R,Washington Capitals,0,20182019
+Philadelphia Flyers,0,2018-12-27,2018020571,R,Tampa Bay Lightning,0,20182019
+Buffalo Sabres,0,2018-12-27,2018020572,R,St. Louis Blues,0,20182019
+Dallas Stars,0,2018-12-27,2018020573,R,Nashville Predators,0,20182019
+Calgary Flames,0,2018-12-27,2018020574,R,Winnipeg Jets,0,20182019
+Minnesota Wild,0,2018-12-27,2018020575,R,Chicago Blackhawks,0,20182019
+Vancouver Canucks,0,2018-12-27,2018020576,R,Edmonton Oilers,0,20182019
+Colorado Avalanche,0,2018-12-27,2018020577,R,Vegas Golden Knights,0,20182019
+Arizona Coyotes,0,2018-12-27,2018020578,R,Los Angeles Kings,0,20182019
+Anaheim Ducks,0,2018-12-27,2018020579,R,San Jose Sharks,0,20182019
+Montréal Canadiens,0,2018-12-28,2018020580,R,Florida Panthers,0,20182019
+Ottawa Senators,0,2018-12-28,2018020581,R,New York Islanders,0,20182019
+Toronto Maple Leafs,0,2018-12-28,2018020582,R,Columbus Blue Jackets,0,20182019
+Carolina Hurricanes,0,2018-12-29,2018020583,R,New Jersey Devils,0,20182019
+Minnesota Wild,0,2018-12-29,2018020584,R,Winnipeg Jets,0,20182019
+San Jose Sharks,0,2018-12-29,2018020585,R,Edmonton Oilers,0,20182019
+Vegas Golden Knights,0,2018-12-29,2018020586,R,Los Angeles Kings,0,20182019
+Boston Bruins,0,2018-12-29,2018020587,R,Buffalo Sabres,0,20182019
+New York Islanders,0,2018-12-29,2018020588,R,Toronto Maple Leafs,0,20182019
+Washington Capitals,0,2018-12-29,2018020589,R,Ottawa Senators,0,20182019
+Montréal Canadiens,0,2018-12-29,2018020590,R,Tampa Bay Lightning,0,20182019
+Philadelphia Flyers,0,2018-12-29,2018020591,R,Florida Panthers,0,20182019
+Pittsburgh Penguins,0,2018-12-29,2018020592,R,St. Louis Blues,0,20182019
+New York Rangers,0,2018-12-29,2018020593,R,Nashville Predators,0,20182019
+Detroit Red Wings,0,2018-12-29,2018020594,R,Dallas Stars,0,20182019
+Chicago Blackhawks,0,2018-12-29,2018020595,R,Colorado Avalanche,0,20182019
+Vancouver Canucks,0,2018-12-29,2018020596,R,Calgary Flames,0,20182019
+Arizona Coyotes,0,2018-12-29,2018020597,R,Anaheim Ducks,0,20182019
+Vegas Golden Knights,0,2018-12-30,2018020598,R,Arizona Coyotes,0,20182019
+Nashville Predators,0,2018-12-31,2018020599,R,Washington Capitals,0,20182019
+Vancouver Canucks,0,2018-12-31,2018020600,R,New Jersey Devils,0,20182019
+New York Islanders,0,2018-12-31,2018020601,R,Buffalo Sabres,0,20182019
+Philadelphia Flyers,0,2018-12-31,2018020602,R,Carolina Hurricanes,0,20182019
+Pittsburgh Penguins,0,2018-12-31,2018020603,R,Minnesota Wild,0,20182019
+Ottawa Senators,0,2018-12-31,2018020604,R,Columbus Blue Jackets,0,20182019
+New York Rangers,0,2018-12-31,2018020605,R,St. Louis Blues,0,20182019
+Florida Panthers,0,2018-12-31,2018020606,R,Detroit Red Wings,0,20182019
+Los Angeles Kings,0,2018-12-31,2018020607,R,Colorado Avalanche,0,20182019
+Tampa Bay Lightning,0,2018-12-31,2018020611,R,Anaheim Ducks,0,20182019
+Montréal Canadiens,0,2018-12-31,2018020608,R,Dallas Stars,0,20182019
+San Jose Sharks,0,2018-12-31,2018020609,R,Calgary Flames,0,20182019
+Winnipeg Jets,0,2018-12-31,2018020610,R,Edmonton Oilers,0,20182019
+Boston Bruins,0,2019-01-01,2018020612,R,Chicago Blackhawks,0,20182019
+Philadelphia Flyers,0,2019-01-01,2018020613,R,Nashville Predators,0,20182019
+Los Angeles Kings,0,2019-01-01,2018020614,R,Vegas Golden Knights,0,20182019
+Vancouver Canucks,0,2019-01-02,2018020615,R,Ottawa Senators,0,20182019
+Calgary Flames,0,2019-01-02,2018020616,R,Detroit Red Wings,0,20182019
+Pittsburgh Penguins,0,2019-01-02,2018020617,R,New York Rangers,0,20182019
+New Jersey Devils,0,2019-01-02,2018020618,R,Dallas Stars,0,20182019
+San Jose Sharks,0,2019-01-02,2018020619,R,Colorado Avalanche,0,20182019
+Edmonton Oilers,0,2019-01-02,2018020620,R,Arizona Coyotes,0,20182019
+Minnesota Wild,0,2019-01-03,2018020621,R,Toronto Maple Leafs,0,20182019
+Calgary Flames,0,2019-01-03,2018020622,R,Boston Bruins,0,20182019
+Florida Panthers,0,2019-01-03,2018020623,R,Buffalo Sabres,0,20182019
+Carolina Hurricanes,0,2019-01-03,2018020625,R,Philadelphia Flyers,0,20182019
+Chicago Blackhawks,0,2019-01-03,2018020624,R,New York Islanders,0,20182019
+Vancouver Canucks,0,2019-01-03,2018020626,R,Montréal Canadiens,0,20182019
+Washington Capitals,0,2019-01-03,2018020627,R,St. Louis Blues,0,20182019
+Tampa Bay Lightning,0,2019-01-03,2018020628,R,Los Angeles Kings,0,20182019
+Winnipeg Jets,0,2019-01-04,2018020629,R,Pittsburgh Penguins,0,20182019
+Nashville Predators,0,2019-01-04,2018020630,R,Detroit Red Wings,0,20182019
+Columbus Blue Jackets,0,2019-01-04,2018020631,R,Carolina Hurricanes,0,20182019
+Washington Capitals,0,2019-01-04,2018020632,R,Dallas Stars,0,20182019
+New York Rangers,0,2019-01-04,2018020633,R,Colorado Avalanche,0,20182019
+New Jersey Devils,0,2019-01-04,2018020634,R,Arizona Coyotes,0,20182019
+Vegas Golden Knights,0,2019-01-04,2018020635,R,Anaheim Ducks,0,20182019
+Calgary Flames,0,2019-01-05,2018020636,R,Philadelphia Flyers,0,20182019
+Minnesota Wild,0,2019-01-05,2018020637,R,Ottawa Senators,0,20182019
+Buffalo Sabres,0,2019-01-05,2018020638,R,Boston Bruins,0,20182019
+Vancouver Canucks,0,2019-01-05,2018020639,R,Toronto Maple Leafs,0,20182019
+Nashville Predators,0,2019-01-05,2018020640,R,Montréal Canadiens,0,20182019
+Columbus Blue Jackets,0,2019-01-05,2018020641,R,Florida Panthers,0,20182019
+New York Islanders,0,2019-01-05,2018020642,R,St. Louis Blues,0,20182019
+Edmonton Oilers,0,2019-01-05,2018020643,R,Los Angeles Kings,0,20182019
+Tampa Bay Lightning,0,2019-01-05,2018020644,R,San Jose Sharks,0,20182019
+Carolina Hurricanes,0,2019-01-06,2018020647,R,Ottawa Senators,0,20182019
+New York Rangers,0,2019-01-06,2018020645,R,Arizona Coyotes,0,20182019
+New Jersey Devils,0,2019-01-06,2018020646,R,Vegas Golden Knights,0,20182019
+Washington Capitals,0,2019-01-06,2018020648,R,Detroit Red Wings,0,20182019
+Dallas Stars,0,2019-01-06,2018020649,R,Winnipeg Jets,0,20182019
+Chicago Blackhawks,0,2019-01-06,2018020650,R,Pittsburgh Penguins,0,20182019
+Edmonton Oilers,0,2019-01-06,2018020651,R,Anaheim Ducks,0,20182019
+Nashville Predators,0,2019-01-07,2018020652,R,Toronto Maple Leafs,0,20182019
+St. Louis Blues,0,2019-01-07,2018020653,R,Philadelphia Flyers,0,20182019
+Minnesota Wild,0,2019-01-07,2018020654,R,Montréal Canadiens,0,20182019
+Calgary Flames,0,2019-01-07,2018020655,R,Chicago Blackhawks,0,20182019
+Los Angeles Kings,0,2019-01-07,2018020656,R,San Jose Sharks,0,20182019
+Minnesota Wild,0,2019-01-08,2018020657,R,Boston Bruins,0,20182019
+New Jersey Devils,0,2019-01-08,2018020658,R,Buffalo Sabres,0,20182019
+Carolina Hurricanes,0,2019-01-08,2018020659,R,New York Islanders,0,20182019
+Florida Panthers,0,2019-01-08,2018020660,R,Pittsburgh Penguins,0,20182019
+Philadelphia Flyers,0,2019-01-08,2018020661,R,Washington Capitals,0,20182019
+Montréal Canadiens,0,2019-01-08,2018020662,R,Detroit Red Wings,0,20182019
+Columbus Blue Jackets,0,2019-01-08,2018020663,R,Tampa Bay Lightning,0,20182019
+Dallas Stars,0,2019-01-08,2018020664,R,St. Louis Blues,0,20182019
+Colorado Avalanche,0,2019-01-08,2018020665,R,Winnipeg Jets,0,20182019
+New York Rangers,0,2019-01-08,2018020666,R,Vegas Golden Knights,0,20182019
+Edmonton Oilers,0,2019-01-08,2018020667,R,San Jose Sharks,0,20182019
+Nashville Predators,0,2019-01-09,2018020668,R,Chicago Blackhawks,0,20182019
+Colorado Avalanche,0,2019-01-09,2018020669,R,Calgary Flames,0,20182019
+Ottawa Senators,0,2019-01-09,2018020670,R,Anaheim Ducks,0,20182019
+Washington Capitals,0,2019-01-10,2018020671,R,Boston Bruins,0,20182019
+Toronto Maple Leafs,0,2019-01-10,2018020672,R,New Jersey Devils,0,20182019
+New York Islanders,0,2019-01-10,2018020673,R,New York Rangers,0,20182019
+Dallas Stars,0,2019-01-10,2018020674,R,Philadelphia Flyers,0,20182019
+Nashville Predators,0,2019-01-10,2018020675,R,Columbus Blue Jackets,0,20182019
+Carolina Hurricanes,0,2019-01-10,2018020676,R,Tampa Bay Lightning,0,20182019
+Montréal Canadiens,0,2019-01-10,2018020677,R,St. Louis Blues,0,20182019
+Winnipeg Jets,0,2019-01-10,2018020678,R,Minnesota Wild,0,20182019
+Florida Panthers,0,2019-01-10,2018020679,R,Edmonton Oilers,0,20182019
+Arizona Coyotes,0,2019-01-10,2018020680,R,Vancouver Canucks,0,20182019
+San Jose Sharks,0,2019-01-10,2018020681,R,Vegas Golden Knights,0,20182019
+Ottawa Senators,0,2019-01-10,2018020682,R,Los Angeles Kings,0,20182019
+Buffalo Sabres,0,2019-01-11,2018020683,R,Carolina Hurricanes,0,20182019
+Detroit Red Wings,0,2019-01-11,2018020684,R,Winnipeg Jets,0,20182019
+Florida Panthers,0,2019-01-11,2018020685,R,Calgary Flames,0,20182019
+Pittsburgh Penguins,0,2019-01-11,2018020686,R,Anaheim Ducks,0,20182019
+Philadelphia Flyers,0,2019-01-12,2018020687,R,New Jersey Devils,0,20182019
+New York Rangers,0,2019-01-12,2018020688,R,New York Islanders,0,20182019
+Tampa Bay Lightning,0,2019-01-12,2018020689,R,Buffalo Sabres,0,20182019
+Boston Bruins,0,2019-01-12,2018020690,R,Toronto Maple Leafs,0,20182019
+Colorado Avalanche,0,2019-01-12,2018020691,R,Montréal Canadiens,0,20182019
+Columbus Blue Jackets,0,2019-01-12,2018020692,R,Washington Capitals,0,20182019
+Detroit Red Wings,0,2019-01-12,2018020693,R,Minnesota Wild,0,20182019
+Vegas Golden Knights,0,2019-01-12,2018020694,R,Chicago Blackhawks,0,20182019
+St. Louis Blues,0,2019-01-12,2018020695,R,Dallas Stars,0,20182019
+Arizona Coyotes,0,2019-01-12,2018020696,R,Edmonton Oilers,0,20182019
+Ottawa Senators,0,2019-01-12,2018020697,R,San Jose Sharks,0,20182019
+Pittsburgh Penguins,0,2019-01-12,2018020698,R,Los Angeles Kings,0,20182019
+Nashville Predators,0,2019-01-13,2018020699,R,Carolina Hurricanes,0,20182019
+New York Rangers,0,2019-01-13,2018020700,R,Columbus Blue Jackets,0,20182019
+Anaheim Ducks,0,2019-01-13,2018020701,R,Winnipeg Jets,0,20182019
+Tampa Bay Lightning,0,2019-01-13,2018020702,R,New York Islanders,0,20182019
+Florida Panthers,0,2019-01-13,2018020703,R,Vancouver Canucks,0,20182019
+Arizona Coyotes,0,2019-01-13,2018020704,R,Calgary Flames,0,20182019
+Colorado Avalanche,0,2019-01-14,2018020706,R,Toronto Maple Leafs,0,20182019
+Chicago Blackhawks,0,2019-01-14,2018020707,R,New Jersey Devils,0,20182019
+Minnesota Wild,0,2019-01-14,2018020708,R,Philadelphia Flyers,0,20182019
+St. Louis Blues,0,2019-01-14,2018020709,R,Washington Capitals,0,20182019
+Montréal Canadiens,0,2019-01-14,2018020705,R,Boston Bruins,0,20182019
+Buffalo Sabres,0,2019-01-14,2018020710,R,Edmonton Oilers,0,20182019
+St. Louis Blues,0,2019-01-15,2018020711,R,New York Islanders,0,20182019
+Carolina Hurricanes,0,2019-01-15,2018020712,R,New York Rangers,0,20182019
+New Jersey Devils,0,2019-01-15,2018020713,R,Columbus Blue Jackets,0,20182019
+Florida Panthers,0,2019-01-15,2018020714,R,Montréal Canadiens,0,20182019
+Anaheim Ducks,0,2019-01-15,2018020715,R,Detroit Red Wings,0,20182019
+Washington Capitals,0,2019-01-15,2018020716,R,Nashville Predators,0,20182019
+Los Angeles Kings,0,2019-01-15,2018020717,R,Minnesota Wild,0,20182019
+Vegas Golden Knights,0,2019-01-15,2018020718,R,Winnipeg Jets,0,20182019
+Tampa Bay Lightning,0,2019-01-15,2018020719,R,Dallas Stars,0,20182019
+Pittsburgh Penguins,0,2019-01-15,2018020720,R,San Jose Sharks,0,20182019
+Colorado Avalanche,0,2019-01-16,2018020721,R,Ottawa Senators,0,20182019
+Boston Bruins,0,2019-01-16,2018020722,R,Philadelphia Flyers,0,20182019
+Buffalo Sabres,0,2019-01-16,2018020723,R,Calgary Flames,0,20182019
+Edmonton Oilers,0,2019-01-16,2018020724,R,Vancouver Canucks,0,20182019
+San Jose Sharks,0,2019-01-16,2018020725,R,Arizona Coyotes,0,20182019
+St. Louis Blues,0,2019-01-17,2018020726,R,Boston Bruins,0,20182019
+New Jersey Devils,0,2019-01-17,2018020727,R,New York Islanders,0,20182019
+Chicago Blackhawks,0,2019-01-17,2018020728,R,New York Rangers,0,20182019
+Toronto Maple Leafs,0,2019-01-17,2018020729,R,Tampa Bay Lightning,0,20182019
+Winnipeg Jets,0,2019-01-17,2018020730,R,Nashville Predators,0,20182019
+Anaheim Ducks,0,2019-01-17,2018020731,R,Minnesota Wild,0,20182019
+Los Angeles Kings,0,2019-01-17,2018020732,R,Dallas Stars,0,20182019
+Toronto Maple Leafs,0,2019-01-18,2018020733,R,Florida Panthers,0,20182019
+Montréal Canadiens,0,2019-01-18,2018020734,R,Columbus Blue Jackets,0,20182019
+New York Islanders,0,2019-01-18,2018020735,R,Washington Capitals,0,20182019
+Ottawa Senators,0,2019-01-18,2018020736,R,Carolina Hurricanes,0,20182019
+Detroit Red Wings,0,2019-01-18,2018020737,R,Calgary Flames,0,20182019
+Pittsburgh Penguins,0,2019-01-18,2018020738,R,Arizona Coyotes,0,20182019
+Buffalo Sabres,0,2019-01-18,2018020739,R,Vancouver Canucks,0,20182019
+Anaheim Ducks,0,2019-01-19,2018020740,R,New Jersey Devils,0,20182019
+Los Angeles Kings,0,2019-01-19,2018020741,R,Colorado Avalanche,0,20182019
+New York Rangers,0,2019-01-19,2018020742,R,Boston Bruins,0,20182019
+Philadelphia Flyers,0,2019-01-19,2018020743,R,Montréal Canadiens,0,20182019
+San Jose Sharks,0,2019-01-19,2018020744,R,Tampa Bay Lightning,0,20182019
+Ottawa Senators,0,2019-01-19,2018020745,R,St. Louis Blues,0,20182019
+Winnipeg Jets,0,2019-01-19,2018020746,R,Dallas Stars,0,20182019
+Florida Panthers,0,2019-01-19,2018020747,R,Nashville Predators,0,20182019
+Columbus Blue Jackets,0,2019-01-19,2018020748,R,Minnesota Wild,0,20182019
+Calgary Flames,0,2019-01-19,2018020749,R,Edmonton Oilers,0,20182019
+Pittsburgh Penguins,0,2019-01-19,2018020750,R,Vegas Golden Knights,0,20182019
+Washington Capitals,0,2019-01-20,2018020751,R,Chicago Blackhawks,0,20182019
+Anaheim Ducks,0,2019-01-20,2018020752,R,New York Islanders,0,20182019
+Detroit Red Wings,0,2019-01-20,2018020753,R,Vancouver Canucks,0,20182019
+Arizona Coyotes,0,2019-01-20,2018020754,R,Toronto Maple Leafs,0,20182019
+Carolina Hurricanes,0,2019-01-20,2018020755,R,Edmonton Oilers,0,20182019
+Nashville Predators,0,2019-01-21,2018020756,R,Colorado Avalanche,0,20182019
+St. Louis Blues,0,2019-01-21,2018020759,R,Los Angeles Kings,0,20182019
+Minnesota Wild,0,2019-01-21,2018020757,R,Vegas Golden Knights,0,20182019
+San Jose Sharks,0,2019-01-21,2018020758,R,Florida Panthers,0,20182019
+San Jose Sharks,0,2019-01-22,2018020760,R,Washington Capitals,0,20182019
+Arizona Coyotes,0,2019-01-22,2018020761,R,Ottawa Senators,0,20182019
+New York Islanders,0,2019-01-22,2018020762,R,Chicago Blackhawks,0,20182019
+Carolina Hurricanes,0,2019-01-22,2018020763,R,Calgary Flames,0,20182019
+Detroit Red Wings,0,2019-01-22,2018020764,R,Edmonton Oilers,0,20182019
+Washington Capitals,0,2019-01-23,2018020765,R,Toronto Maple Leafs,0,20182019
+Arizona Coyotes,0,2019-01-23,2018020766,R,Montréal Canadiens,0,20182019
+Minnesota Wild,0,2019-01-23,2018020767,R,Colorado Avalanche,0,20182019
+Nashville Predators,0,2019-01-23,2018020768,R,Vegas Golden Knights,0,20182019
+St. Louis Blues,0,2019-01-23,2018020769,R,Anaheim Ducks,0,20182019
+Carolina Hurricanes,0,2019-01-23,2018020770,R,Vancouver Canucks,0,20182019
+Winnipeg Jets,0,2019-01-28,2018020771,R,Philadelphia Flyers,0,20182019
+New Jersey Devils,0,2019-01-28,2018020772,R,Pittsburgh Penguins,0,20182019
+Winnipeg Jets,0,2019-01-29,2018020773,R,Boston Bruins,0,20182019
+Buffalo Sabres,0,2019-01-29,2018020775,R,Columbus Blue Jackets,0,20182019
+Philadelphia Flyers,0,2019-01-29,2018020774,R,New York Rangers,0,20182019
+Tampa Bay Lightning,0,2019-01-30,2018020776,R,Pittsburgh Penguins,0,20182019
+Buffalo Sabres,0,2019-01-30,2018020777,R,Dallas Stars,0,20182019
+Philadelphia Flyers,0,2019-01-31,2018020778,R,Boston Bruins,0,20182019
+New York Rangers,0,2019-01-31,2018020779,R,New Jersey Devils,0,20182019
+Columbus Blue Jackets,0,2019-01-31,2018020780,R,Winnipeg Jets,0,20182019
+Chicago Blackhawks,0,2019-02-01,2018020781,R,Buffalo Sabres,0,20182019
+Nashville Predators,0,2019-02-01,2018020782,R,Florida Panthers,0,20182019
+Tampa Bay Lightning,0,2019-02-01,2018020783,R,New York Islanders,0,20182019
+Ottawa Senators,0,2019-02-01,2018020784,R,Pittsburgh Penguins,0,20182019
+Calgary Flames,0,2019-02-01,2018020785,R,Washington Capitals,0,20182019
+Toronto Maple Leafs,0,2019-02-01,2018020786,R,Detroit Red Wings,0,20182019
+Vegas Golden Knights,0,2019-02-01,2018020787,R,Carolina Hurricanes,0,20182019
+Minnesota Wild,0,2019-02-01,2018020788,R,Dallas Stars,0,20182019
+Edmonton Oilers,0,2019-02-02,2018020789,R,Philadelphia Flyers,0,20182019
+New Jersey Devils,0,2019-02-02,2018020790,R,Montréal Canadiens,0,20182019
+Pittsburgh Penguins,0,2019-02-02,2018020791,R,Toronto Maple Leafs,0,20182019
+Detroit Red Wings,0,2019-02-02,2018020792,R,Ottawa Senators,0,20182019
+Vegas Golden Knights,0,2019-02-02,2018020793,R,Florida Panthers,0,20182019
+Los Angeles Kings,0,2019-02-02,2018020794,R,New York Islanders,0,20182019
+St. Louis Blues,0,2019-02-02,2018020796,R,Columbus Blue Jackets,0,20182019
+Anaheim Ducks,0,2019-02-02,2018020797,R,Winnipeg Jets,0,20182019
+Tampa Bay Lightning,0,2019-02-02,2018020795,R,New York Rangers,0,20182019
+Dallas Stars,0,2019-02-02,2018020798,R,Nashville Predators,0,20182019
+Chicago Blackhawks,0,2019-02-02,2018020799,R,Minnesota Wild,0,20182019
+Vancouver Canucks,0,2019-02-02,2018020800,R,Colorado Avalanche,0,20182019
+Arizona Coyotes,0,2019-02-02,2018020801,R,San Jose Sharks,0,20182019
+Boston Bruins,0,2019-02-03,2018020802,R,Washington Capitals,0,20182019
+Edmonton Oilers,0,2019-02-03,2018020803,R,Montréal Canadiens,0,20182019
+Calgary Flames,0,2019-02-03,2018020804,R,Carolina Hurricanes,0,20182019
+Anaheim Ducks,0,2019-02-04,2018020805,R,Toronto Maple Leafs,0,20182019
+Los Angeles Kings,0,2019-02-04,2018020806,R,New York Rangers,0,20182019
+Vancouver Canucks,0,2019-02-04,2018020807,R,Philadelphia Flyers,0,20182019
+Arizona Coyotes,0,2019-02-04,2018020808,R,Dallas Stars,0,20182019
+New York Islanders,0,2019-02-05,2018020809,R,Boston Bruins,0,20182019
+Minnesota Wild,0,2019-02-05,2018020810,R,Buffalo Sabres,0,20182019
+St. Louis Blues,0,2019-02-05,2018020811,R,Florida Panthers,0,20182019
+Los Angeles Kings,0,2019-02-05,2018020812,R,New Jersey Devils,0,20182019
+Carolina Hurricanes,0,2019-02-05,2018020813,R,Pittsburgh Penguins,0,20182019
+Vancouver Canucks,0,2019-02-05,2018020814,R,Washington Capitals,0,20182019
+Anaheim Ducks,0,2019-02-05,2018020815,R,Montréal Canadiens,0,20182019
+Vegas Golden Knights,0,2019-02-05,2018020816,R,Tampa Bay Lightning,0,20182019
+Arizona Coyotes,0,2019-02-05,2018020817,R,Nashville Predators,0,20182019
+San Jose Sharks,0,2019-02-05,2018020818,R,Winnipeg Jets,0,20182019
+Columbus Blue Jackets,0,2019-02-05,2018020819,R,Colorado Avalanche,0,20182019
+Chicago Blackhawks,0,2019-02-05,2018020820,R,Edmonton Oilers,0,20182019
+Ottawa Senators,0,2019-02-06,2018020821,R,Toronto Maple Leafs,0,20182019
+Boston Bruins,0,2019-02-06,2018020822,R,New York Rangers,0,20182019
+Carolina Hurricanes,0,2019-02-07,2018020823,R,Buffalo Sabres,0,20182019
+Pittsburgh Penguins,0,2019-02-07,2018020824,R,Florida Panthers,0,20182019
+New York Islanders,0,2019-02-07,2018020825,R,New Jersey Devils,0,20182019
+Los Angeles Kings,0,2019-02-07,2018020826,R,Philadelphia Flyers,0,20182019
+Colorado Avalanche,0,2019-02-07,2018020827,R,Washington Capitals,0,20182019
+Winnipeg Jets,0,2019-02-07,2018020828,R,Montréal Canadiens,0,20182019
+Anaheim Ducks,0,2019-02-07,2018020829,R,Ottawa Senators,0,20182019
+Vegas Golden Knights,0,2019-02-07,2018020830,R,Detroit Red Wings,0,20182019
+St. Louis Blues,0,2019-02-07,2018020831,R,Tampa Bay Lightning,0,20182019
+Dallas Stars,0,2019-02-07,2018020832,R,Nashville Predators,0,20182019
+Edmonton Oilers,0,2019-02-07,2018020833,R,Minnesota Wild,0,20182019
+Vancouver Canucks,0,2019-02-07,2018020834,R,Chicago Blackhawks,0,20182019
+San Jose Sharks,0,2019-02-07,2018020835,R,Calgary Flames,0,20182019
+Columbus Blue Jackets,0,2019-02-07,2018020836,R,Arizona Coyotes,0,20182019
+Carolina Hurricanes,0,2019-02-08,2018020837,R,New York Rangers,0,20182019
+Los Angeles Kings,0,2019-02-09,2018020838,R,Boston Bruins,0,20182019
+Detroit Red Wings,0,2019-02-09,2018020839,R,Buffalo Sabres,0,20182019
+Minnesota Wild,0,2019-02-09,2018020840,R,New Jersey Devils,0,20182019
+Colorado Avalanche,0,2019-02-09,2018020841,R,New York Islanders,0,20182019
+Anaheim Ducks,0,2019-02-09,2018020842,R,Philadelphia Flyers,0,20182019
+Winnipeg Jets,0,2019-02-09,2018020843,R,Ottawa Senators,0,20182019
+Nashville Predators,0,2019-02-09,2018020844,R,St. Louis Blues,0,20182019
+Dallas Stars,0,2019-02-09,2018020845,R,Arizona Coyotes,0,20182019
+Toronto Maple Leafs,0,2019-02-09,2018020846,R,Montréal Canadiens,0,20182019
+Pittsburgh Penguins,0,2019-02-09,2018020847,R,Tampa Bay Lightning,0,20182019
+Florida Panthers,0,2019-02-09,2018020848,R,Washington Capitals,0,20182019
+San Jose Sharks,0,2019-02-09,2018020849,R,Edmonton Oilers,0,20182019
+Calgary Flames,0,2019-02-09,2018020850,R,Vancouver Canucks,0,20182019
+Columbus Blue Jackets,0,2019-02-09,2018020851,R,Vegas Golden Knights,0,20182019
+St. Louis Blues,0,2019-02-10,2018020852,R,Nashville Predators,0,20182019
+Colorado Avalanche,0,2019-02-10,2018020853,R,Boston Bruins,0,20182019
+Winnipeg Jets,0,2019-02-10,2018020854,R,Buffalo Sabres,0,20182019
+Carolina Hurricanes,0,2019-02-10,2018020855,R,New Jersey Devils,0,20182019
+Minnesota Wild,0,2019-02-10,2018020856,R,New York Islanders,0,20182019
+Detroit Red Wings,0,2019-02-10,2018020857,R,Chicago Blackhawks,0,20182019
+Tampa Bay Lightning,0,2019-02-10,2018020858,R,Florida Panthers,0,20182019
+Toronto Maple Leafs,0,2019-02-10,2018020859,R,New York Rangers,0,20182019
+Pittsburgh Penguins,0,2019-02-11,2018020860,R,Philadelphia Flyers,0,20182019
+Los Angeles Kings,0,2019-02-11,2018020861,R,Washington Capitals,0,20182019
+San Jose Sharks,0,2019-02-11,2018020862,R,Vancouver Canucks,0,20182019
+Chicago Blackhawks,0,2019-02-12,2018020863,R,Boston Bruins,0,20182019
+New York Islanders,0,2019-02-12,2018020864,R,Buffalo Sabres,0,20182019
+Dallas Stars,0,2019-02-12,2018020865,R,Florida Panthers,0,20182019
+Washington Capitals,0,2019-02-12,2018020866,R,Columbus Blue Jackets,0,20182019
+Carolina Hurricanes,0,2019-02-12,2018020867,R,Ottawa Senators,0,20182019
+Calgary Flames,0,2019-02-12,2018020868,R,Tampa Bay Lightning,0,20182019
+New Jersey Devils,0,2019-02-12,2018020869,R,St. Louis Blues,0,20182019
+Detroit Red Wings,0,2019-02-12,2018020870,R,Nashville Predators,0,20182019
+Philadelphia Flyers,0,2019-02-12,2018020871,R,Minnesota Wild,0,20182019
+New York Rangers,0,2019-02-12,2018020872,R,Winnipeg Jets,0,20182019
+Toronto Maple Leafs,0,2019-02-12,2018020873,R,Colorado Avalanche,0,20182019
+Arizona Coyotes,0,2019-02-12,2018020874,R,Vegas Golden Knights,0,20182019
+Edmonton Oilers,0,2019-02-13,2018020875,R,Pittsburgh Penguins,0,20182019
+Vancouver Canucks,0,2019-02-13,2018020876,R,Anaheim Ducks,0,20182019
+Calgary Flames,0,2019-02-14,2018020877,R,Florida Panthers,0,20182019
+New York Islanders,0,2019-02-14,2018020878,R,Columbus Blue Jackets,0,20182019
+Ottawa Senators,0,2019-02-14,2018020879,R,Detroit Red Wings,0,20182019
+Dallas Stars,0,2019-02-14,2018020880,R,Tampa Bay Lightning,0,20182019
+Montréal Canadiens,0,2019-02-14,2018020881,R,Nashville Predators,0,20182019
+Colorado Avalanche,0,2019-02-14,2018020882,R,Winnipeg Jets,0,20182019
+New Jersey Devils,0,2019-02-14,2018020883,R,Chicago Blackhawks,0,20182019
+St. Louis Blues,0,2019-02-14,2018020884,R,Arizona Coyotes,0,20182019
+Toronto Maple Leafs,0,2019-02-14,2018020885,R,Vegas Golden Knights,0,20182019
+Vancouver Canucks,0,2019-02-14,2018020886,R,Los Angeles Kings,0,20182019
+Washington Capitals,0,2019-02-14,2018020887,R,San Jose Sharks,0,20182019
+New York Rangers,0,2019-02-15,2018020888,R,Buffalo Sabres,0,20182019
+Edmonton Oilers,0,2019-02-15,2018020889,R,Carolina Hurricanes,0,20182019
+New Jersey Devils,0,2019-02-15,2018020890,R,Minnesota Wild,0,20182019
+Boston Bruins,0,2019-02-15,2018020891,R,Anaheim Ducks,0,20182019
+Detroit Red Wings,0,2019-02-16,2018020892,R,Philadelphia Flyers,0,20182019
+Calgary Flames,0,2019-02-16,2018020893,R,Pittsburgh Penguins,0,20182019
+St. Louis Blues,0,2019-02-16,2018020894,R,Colorado Avalanche,0,20182019
+Montréal Canadiens,0,2019-02-16,2018020895,R,Tampa Bay Lightning,0,20182019
+Edmonton Oilers,0,2019-02-16,2018020896,R,New York Islanders,0,20182019
+Ottawa Senators,0,2019-02-16,2018020897,R,Winnipeg Jets,0,20182019
+Toronto Maple Leafs,0,2019-02-16,2018020898,R,Arizona Coyotes,0,20182019
+Dallas Stars,0,2019-02-16,2018020899,R,Carolina Hurricanes,0,20182019
+Columbus Blue Jackets,0,2019-02-16,2018020900,R,Chicago Blackhawks,0,20182019
+Nashville Predators,0,2019-02-16,2018020901,R,Vegas Golden Knights,0,20182019
+Vancouver Canucks,0,2019-02-16,2018020902,R,San Jose Sharks,0,20182019
+Boston Bruins,0,2019-02-16,2018020903,R,Los Angeles Kings,0,20182019
+New York Rangers,0,2019-02-17,2018020904,R,Pittsburgh Penguins,0,20182019
+St. Louis Blues,0,2019-02-17,2018020905,R,Minnesota Wild,0,20182019
+Buffalo Sabres,0,2019-02-17,2018020906,R,New Jersey Devils,0,20182019
+Philadelphia Flyers,0,2019-02-17,2018020907,R,Detroit Red Wings,0,20182019
+Montréal Canadiens,0,2019-02-17,2018020908,R,Florida Panthers,0,20182019
+Washington Capitals,0,2019-02-17,2018020909,R,Anaheim Ducks,0,20182019
+Arizona Coyotes,0,2019-02-18,2018020910,R,Calgary Flames,0,20182019
+Tampa Bay Lightning,0,2019-02-18,2018020911,R,Columbus Blue Jackets,0,20182019
+Ottawa Senators,0,2019-02-18,2018020912,R,Chicago Blackhawks,0,20182019
+Vegas Golden Knights,0,2019-02-18,2018020913,R,Colorado Avalanche,0,20182019
+Boston Bruins,0,2019-02-18,2018020915,R,San Jose Sharks,0,20182019
+Washington Capitals,0,2019-02-18,2018020914,R,Los Angeles Kings,0,20182019
+Buffalo Sabres,0,2019-02-19,2018020916,R,Florida Panthers,0,20182019
+Pittsburgh Penguins,0,2019-02-19,2018020917,R,New Jersey Devils,0,20182019
+Tampa Bay Lightning,0,2019-02-19,2018020918,R,Philadelphia Flyers,0,20182019
+New York Rangers,0,2019-02-19,2018020919,R,Carolina Hurricanes,0,20182019
+Columbus Blue Jackets,0,2019-02-19,2018020920,R,Montréal Canadiens,0,20182019
+Toronto Maple Leafs,0,2019-02-19,2018020921,R,St. Louis Blues,0,20182019
+Anaheim Ducks,0,2019-02-19,2018020922,R,Minnesota Wild,0,20182019
+Nashville Predators,0,2019-02-19,2018020923,R,Dallas Stars,0,20182019
+Arizona Coyotes,0,2019-02-19,2018020924,R,Edmonton Oilers,0,20182019
+Chicago Blackhawks,0,2019-02-20,2018020925,R,Detroit Red Wings,0,20182019
+Winnipeg Jets,0,2019-02-20,2018020926,R,Colorado Avalanche,0,20182019
+New York Islanders,0,2019-02-20,2018020927,R,Calgary Flames,0,20182019
+Boston Bruins,0,2019-02-20,2018020928,R,Vegas Golden Knights,0,20182019
+Washington Capitals,0,2019-02-21,2018020929,R,Toronto Maple Leafs,0,20182019
+Carolina Hurricanes,0,2019-02-21,2018020930,R,Florida Panthers,0,20182019
+Ottawa Senators,0,2019-02-21,2018020931,R,New Jersey Devils,0,20182019
+Minnesota Wild,0,2019-02-21,2018020932,R,New York Rangers,0,20182019
+San Jose Sharks,0,2019-02-21,2018020933,R,Pittsburgh Penguins,0,20182019
+Philadelphia Flyers,0,2019-02-21,2018020934,R,Montréal Canadiens,0,20182019
+Buffalo Sabres,0,2019-02-21,2018020935,R,Tampa Bay Lightning,0,20182019
+Los Angeles Kings,0,2019-02-21,2018020936,R,Nashville Predators,0,20182019
+St. Louis Blues,0,2019-02-21,2018020937,R,Dallas Stars,0,20182019
+New York Islanders,0,2019-02-21,2018020938,R,Edmonton Oilers,0,20182019
+Arizona Coyotes,0,2019-02-21,2018020939,R,Vancouver Canucks,0,20182019
+Columbus Blue Jackets,0,2019-02-22,2018020940,R,Ottawa Senators,0,20182019
+Minnesota Wild,0,2019-02-22,2018020941,R,Detroit Red Wings,0,20182019
+Colorado Avalanche,0,2019-02-22,2018020942,R,Chicago Blackhawks,0,20182019
+Anaheim Ducks,0,2019-02-22,2018020943,R,Calgary Flames,0,20182019
+Winnipeg Jets,0,2019-02-22,2018020944,R,Vegas Golden Knights,0,20182019
+Washington Capitals,0,2019-02-23,2018020945,R,Buffalo Sabres,0,20182019
+New Jersey Devils,0,2019-02-23,2018020946,R,New York Rangers,0,20182019
+Boston Bruins,0,2019-02-23,2018020947,R,St. Louis Blues,0,20182019
+Los Angeles Kings,0,2019-02-23,2018020948,R,Florida Panthers,0,20182019
+San Jose Sharks,0,2019-02-23,2018020949,R,Columbus Blue Jackets,0,20182019
+Carolina Hurricanes,0,2019-02-23,2018020950,R,Dallas Stars,0,20182019
+Colorado Avalanche,0,2019-02-23,2018020951,R,Nashville Predators,0,20182019
+Montréal Canadiens,0,2019-02-23,2018020952,R,Toronto Maple Leafs,0,20182019
+Pittsburgh Penguins,0,2019-02-23,2018020953,R,Philadelphia Flyers,0,20182019
+Anaheim Ducks,0,2019-02-23,2018020954,R,Edmonton Oilers,0,20182019
+New York Islanders,0,2019-02-23,2018020955,R,Vancouver Canucks,0,20182019
+New York Rangers,0,2019-02-24,2018020956,R,Washington Capitals,0,20182019
+San Jose Sharks,0,2019-02-24,2018020957,R,Detroit Red Wings,0,20182019
+Dallas Stars,0,2019-02-24,2018020958,R,Chicago Blackhawks,0,20182019
+Calgary Flames,0,2019-02-24,2018020959,R,Ottawa Senators,0,20182019
+St. Louis Blues,0,2019-02-24,2018020960,R,Minnesota Wild,0,20182019
+Winnipeg Jets,0,2019-02-24,2018020961,R,Arizona Coyotes,0,20182019
+Buffalo Sabres,0,2019-02-25,2018020962,R,Toronto Maple Leafs,0,20182019
+Montréal Canadiens,0,2019-02-25,2018020963,R,New Jersey Devils,0,20182019
+Los Angeles Kings,0,2019-02-25,2018020964,R,Tampa Bay Lightning,0,20182019
+Edmonton Oilers,0,2019-02-25,2018020965,R,Nashville Predators,0,20182019
+Florida Panthers,0,2019-02-25,2018020966,R,Colorado Avalanche,0,20182019
+Anaheim Ducks,0,2019-02-25,2018020967,R,Vancouver Canucks,0,20182019
+San Jose Sharks,0,2019-02-26,2018020968,R,Boston Bruins,0,20182019
+Calgary Flames,0,2019-02-26,2018020969,R,New York Islanders,0,20182019
+Buffalo Sabres,0,2019-02-26,2018020970,R,Philadelphia Flyers,0,20182019
+Ottawa Senators,0,2019-02-26,2018020971,R,Washington Capitals,0,20182019
+Los Angeles Kings,0,2019-02-26,2018020972,R,Carolina Hurricanes,0,20182019
+Pittsburgh Penguins,0,2019-02-26,2018020973,R,Columbus Blue Jackets,0,20182019
+Montréal Canadiens,0,2019-02-26,2018020974,R,Detroit Red Wings,0,20182019
+Nashville Predators,0,2019-02-26,2018020975,R,St. Louis Blues,0,20182019
+Minnesota Wild,0,2019-02-26,2018020976,R,Winnipeg Jets,0,20182019
+Florida Panthers,0,2019-02-26,2018020977,R,Arizona Coyotes,0,20182019
+Dallas Stars,0,2019-02-26,2018020978,R,Vegas Golden Knights,0,20182019
+Edmonton Oilers,0,2019-02-27,2018020979,R,Toronto Maple Leafs,0,20182019
+Calgary Flames,0,2019-02-27,2018020980,R,New Jersey Devils,0,20182019
+Tampa Bay Lightning,0,2019-02-27,2018020981,R,New York Rangers,0,20182019
+Vancouver Canucks,0,2019-02-27,2018020982,R,Colorado Avalanche,0,20182019
+Chicago Blackhawks,0,2019-02-27,2018020983,R,Anaheim Ducks,0,20182019
+Toronto Maple Leafs,0,2019-02-28,2018020985,R,New York Islanders,0,20182019
+Philadelphia Flyers,0,2019-02-28,2018020986,R,Columbus Blue Jackets,0,20182019
+Tampa Bay Lightning,0,2019-02-28,2018020984,R,Boston Bruins,0,20182019
+Edmonton Oilers,0,2019-02-28,2018020987,R,Ottawa Senators,0,20182019
+Vancouver Canucks,0,2019-02-28,2018020988,R,Arizona Coyotes,0,20182019
+Florida Panthers,0,2019-02-28,2018020989,R,Vegas Golden Knights,0,20182019
+Dallas Stars,0,2019-02-28,2018020990,R,Los Angeles Kings,0,20182019
+Pittsburgh Penguins,0,2019-03-01,2018020991,R,Buffalo Sabres,0,20182019
+Philadelphia Flyers,0,2019-03-01,2018020992,R,New Jersey Devils,0,20182019
+Washington Capitals,0,2019-03-01,2018020993,R,New York Islanders,0,20182019
+Montréal Canadiens,0,2019-03-01,2018020994,R,New York Rangers,0,20182019
+St. Louis Blues,0,2019-03-01,2018020995,R,Carolina Hurricanes,0,20182019
+Nashville Predators,0,2019-03-01,2018020996,R,Winnipeg Jets,0,20182019
+Vegas Golden Knights,0,2019-03-01,2018020997,R,Anaheim Ducks,0,20182019
+Colorado Avalanche,0,2019-03-01,2018020998,R,San Jose Sharks,0,20182019
+Edmonton Oilers,0,2019-03-02,2018020999,R,Columbus Blue Jackets,0,20182019
+Chicago Blackhawks,0,2019-03-02,2018021000,R,Los Angeles Kings,0,20182019
+New Jersey Devils,0,2019-03-02,2018021001,R,Boston Bruins,0,20182019
+Buffalo Sabres,0,2019-03-02,2018021002,R,Toronto Maple Leafs,0,20182019
+Pittsburgh Penguins,0,2019-03-02,2018021003,R,Montréal Canadiens,0,20182019
+Ottawa Senators,0,2019-03-02,2018021004,R,Tampa Bay Lightning,0,20182019
+Carolina Hurricanes,0,2019-03-02,2018021005,R,Florida Panthers,0,20182019
+Dallas Stars,0,2019-03-02,2018021006,R,St. Louis Blues,0,20182019
+Detroit Red Wings,0,2019-03-02,2018021007,R,Arizona Coyotes,0,20182019
+Minnesota Wild,0,2019-03-02,2018021008,R,Calgary Flames,0,20182019
+Washington Capitals,0,2019-03-03,2018021009,R,New York Rangers,0,20182019
+Philadelphia Flyers,0,2019-03-03,2018021010,R,New York Islanders,0,20182019
+Vancouver Canucks,0,2019-03-03,2018021011,R,Vegas Golden Knights,0,20182019
+Colorado Avalanche,0,2019-03-03,2018021012,R,Anaheim Ducks,0,20182019
+Ottawa Senators,0,2019-03-03,2018021013,R,Florida Panthers,0,20182019
+Winnipeg Jets,0,2019-03-03,2018021014,R,Columbus Blue Jackets,0,20182019
+Nashville Predators,0,2019-03-03,2018021015,R,Minnesota Wild,0,20182019
+Chicago Blackhawks,0,2019-03-03,2018021016,R,San Jose Sharks,0,20182019
+Edmonton Oilers,0,2019-03-04,2018021017,R,Buffalo Sabres,0,20182019
+Toronto Maple Leafs,0,2019-03-04,2018021018,R,Calgary Flames,0,20182019
+Carolina Hurricanes,0,2019-03-05,2018021019,R,Boston Bruins,0,20182019
+Columbus Blue Jackets,0,2019-03-05,2018021020,R,New Jersey Devils,0,20182019
+Ottawa Senators,0,2019-03-05,2018021021,R,New York Islanders,0,20182019
+Florida Panthers,0,2019-03-05,2018021022,R,Pittsburgh Penguins,0,20182019
+Winnipeg Jets,0,2019-03-05,2018021023,R,Tampa Bay Lightning,0,20182019
+Minnesota Wild,0,2019-03-05,2018021024,R,Nashville Predators,0,20182019
+New York Rangers,0,2019-03-05,2018021025,R,Dallas Stars,0,20182019
+Detroit Red Wings,0,2019-03-05,2018021026,R,Colorado Avalanche,0,20182019
+Anaheim Ducks,0,2019-03-05,2018021027,R,Arizona Coyotes,0,20182019
+Montréal Canadiens,0,2019-03-05,2018021028,R,Los Angeles Kings,0,20182019
+Washington Capitals,0,2019-03-06,2018021029,R,Philadelphia Flyers,0,20182019
+Toronto Maple Leafs,0,2019-03-06,2018021030,R,Vancouver Canucks,0,20182019
+St. Louis Blues,0,2019-03-06,2018021031,R,Anaheim Ducks,0,20182019
+Calgary Flames,0,2019-03-06,2018021032,R,Vegas Golden Knights,0,20182019
+Florida Panthers,0,2019-03-07,2018021033,R,Boston Bruins,0,20182019
+Columbus Blue Jackets,0,2019-03-07,2018021034,R,Pittsburgh Penguins,0,20182019
+New York Islanders,0,2019-03-07,2018021035,R,Ottawa Senators,0,20182019
+New York Rangers,0,2019-03-07,2018021036,R,Detroit Red Wings,0,20182019
+Minnesota Wild,0,2019-03-07,2018021037,R,Tampa Bay Lightning,0,20182019
+Buffalo Sabres,0,2019-03-07,2018021038,R,Chicago Blackhawks,0,20182019
+Colorado Avalanche,0,2019-03-07,2018021039,R,Dallas Stars,0,20182019
+Vancouver Canucks,0,2019-03-07,2018021040,R,Edmonton Oilers,0,20182019
+Calgary Flames,0,2019-03-07,2018021041,R,Arizona Coyotes,0,20182019
+St. Louis Blues,0,2019-03-07,2018021042,R,Los Angeles Kings,0,20182019
+Montréal Canadiens,0,2019-03-07,2018021043,R,San Jose Sharks,0,20182019
+Minnesota Wild,0,2019-03-08,2018021044,R,Florida Panthers,0,20182019
+New Jersey Devils,0,2019-03-08,2018021045,R,Washington Capitals,0,20182019
+Winnipeg Jets,0,2019-03-08,2018021046,R,Carolina Hurricanes,0,20182019
+Montréal Canadiens,0,2019-03-08,2018021047,R,Anaheim Ducks,0,20182019
+Buffalo Sabres,0,2019-03-09,2018021048,R,Colorado Avalanche,0,20182019
+St. Louis Blues,0,2019-03-09,2018021049,R,San Jose Sharks,0,20182019
+Ottawa Senators,0,2019-03-09,2018021050,R,Boston Bruins,0,20182019
+Detroit Red Wings,0,2019-03-09,2018021051,R,Tampa Bay Lightning,0,20182019
+Philadelphia Flyers,0,2019-03-09,2018021052,R,New York Islanders,0,20182019
+New Jersey Devils,0,2019-03-09,2018021053,R,New York Rangers,0,20182019
+Pittsburgh Penguins,0,2019-03-09,2018021054,R,Columbus Blue Jackets,0,20182019
+Toronto Maple Leafs,0,2019-03-09,2018021055,R,Edmonton Oilers,0,20182019
+Carolina Hurricanes,0,2019-03-09,2018021056,R,Nashville Predators,0,20182019
+Chicago Blackhawks,0,2019-03-09,2018021057,R,Dallas Stars,0,20182019
+Los Angeles Kings,0,2019-03-09,2018021058,R,Arizona Coyotes,0,20182019
+Vegas Golden Knights,0,2019-03-09,2018021059,R,Vancouver Canucks,0,20182019
+Detroit Red Wings,0,2019-03-10,2018021060,R,Florida Panthers,0,20182019
+Winnipeg Jets,0,2019-03-10,2018021061,R,Washington Capitals,0,20182019
+Boston Bruins,0,2019-03-10,2018021062,R,Pittsburgh Penguins,0,20182019
+Vegas Golden Knights,0,2019-03-10,2018021063,R,Calgary Flames,0,20182019
+Los Angeles Kings,0,2019-03-10,2018021064,R,Anaheim Ducks,0,20182019
+Tampa Bay Lightning,0,2019-03-11,2018021065,R,Toronto Maple Leafs,0,20182019
+Columbus Blue Jackets,0,2019-03-11,2018021066,R,New York Islanders,0,20182019
+Ottawa Senators,0,2019-03-11,2018021067,R,Philadelphia Flyers,0,20182019
+San Jose Sharks,0,2019-03-11,2018021068,R,Minnesota Wild,0,20182019
+Arizona Coyotes,0,2019-03-11,2018021069,R,Chicago Blackhawks,0,20182019
+Carolina Hurricanes,0,2019-03-11,2018021070,R,Colorado Avalanche,0,20182019
+New York Rangers,0,2019-03-11,2018021071,R,Edmonton Oilers,0,20182019
+Dallas Stars,0,2019-03-12,2018021072,R,Buffalo Sabres,0,20182019
+Washington Capitals,0,2019-03-12,2018021073,R,Pittsburgh Penguins,0,20182019
+Boston Bruins,0,2019-03-12,2018021074,R,Columbus Blue Jackets,0,20182019
+Detroit Red Wings,0,2019-03-12,2018021075,R,Montréal Canadiens,0,20182019
+Arizona Coyotes,0,2019-03-12,2018021076,R,St. Louis Blues,0,20182019
+San Jose Sharks,0,2019-03-12,2018021077,R,Winnipeg Jets,0,20182019
+New Jersey Devils,0,2019-03-12,2018021078,R,Calgary Flames,0,20182019
+Nashville Predators,0,2019-03-12,2018021079,R,Anaheim Ducks,0,20182019
+Chicago Blackhawks,0,2019-03-13,2018021080,R,Toronto Maple Leafs,0,20182019
+New Jersey Devils,0,2019-03-13,2018021081,R,Edmonton Oilers,0,20182019
+New York Rangers,0,2019-03-13,2018021082,R,Vancouver Canucks,0,20182019
+Pittsburgh Penguins,0,2019-03-14,2018021083,R,Buffalo Sabres,0,20182019
+Montréal Canadiens,0,2019-03-14,2018021084,R,New York Islanders,0,20182019
+Washington Capitals,0,2019-03-14,2018021085,R,Philadelphia Flyers,0,20182019
+St. Louis Blues,0,2019-03-14,2018021086,R,Ottawa Senators,0,20182019
+Tampa Bay Lightning,0,2019-03-14,2018021087,R,Detroit Red Wings,0,20182019
+Dallas Stars,0,2019-03-14,2018021088,R,Minnesota Wild,0,20182019
+Boston Bruins,0,2019-03-14,2018021089,R,Winnipeg Jets,0,20182019
+Anaheim Ducks,0,2019-03-14,2018021090,R,Arizona Coyotes,0,20182019
+Nashville Predators,0,2019-03-14,2018021091,R,Los Angeles Kings,0,20182019
+Florida Panthers,0,2019-03-14,2018021092,R,San Jose Sharks,0,20182019
+Philadelphia Flyers,0,2019-03-15,2018021093,R,Toronto Maple Leafs,0,20182019
+Carolina Hurricanes,0,2019-03-15,2018021094,R,Columbus Blue Jackets,0,20182019
+Vegas Golden Knights,0,2019-03-15,2018021095,R,Dallas Stars,0,20182019
+Anaheim Ducks,0,2019-03-15,2018021096,R,Colorado Avalanche,0,20182019
+New York Rangers,0,2019-03-15,2018021097,R,Calgary Flames,0,20182019
+New Jersey Devils,0,2019-03-15,2018021098,R,Vancouver Canucks,0,20182019
+St. Louis Blues,0,2019-03-16,2018021099,R,Pittsburgh Penguins,0,20182019
+New York Islanders,0,2019-03-16,2018021100,R,Detroit Red Wings,0,20182019
+Florida Panthers,0,2019-03-16,2018021101,R,Los Angeles Kings,0,20182019
+Columbus Blue Jackets,0,2019-03-16,2018021102,R,Boston Bruins,0,20182019
+Chicago Blackhawks,0,2019-03-16,2018021103,R,Montréal Canadiens,0,20182019
+Toronto Maple Leafs,0,2019-03-16,2018021104,R,Ottawa Senators,0,20182019
+Washington Capitals,0,2019-03-16,2018021105,R,Tampa Bay Lightning,0,20182019
+Buffalo Sabres,0,2019-03-16,2018021106,R,Carolina Hurricanes,0,20182019
+Calgary Flames,0,2019-03-16,2018021107,R,Winnipeg Jets,0,20182019
+New York Rangers,0,2019-03-16,2018021108,R,Minnesota Wild,0,20182019
+Edmonton Oilers,0,2019-03-16,2018021109,R,Arizona Coyotes,0,20182019
+Nashville Predators,0,2019-03-16,2018021110,R,San Jose Sharks,0,20182019
+New Jersey Devils,0,2019-03-17,2018021111,R,Colorado Avalanche,0,20182019
+St. Louis Blues,0,2019-03-17,2018021112,R,Buffalo Sabres,0,20182019
+New York Islanders,0,2019-03-17,2018021113,R,Minnesota Wild,0,20182019
+Vancouver Canucks,0,2019-03-17,2018021114,R,Dallas Stars,0,20182019
+Philadelphia Flyers,0,2019-03-17,2018021115,R,Pittsburgh Penguins,0,20182019
+Florida Panthers,0,2019-03-17,2018021116,R,Anaheim Ducks,0,20182019
+Edmonton Oilers,0,2019-03-17,2018021117,R,Vegas Golden Knights,0,20182019
+Arizona Coyotes,0,2019-03-18,2018021118,R,Tampa Bay Lightning,0,20182019
+Vancouver Canucks,0,2019-03-18,2018021119,R,Chicago Blackhawks,0,20182019
+Winnipeg Jets,0,2019-03-18,2018021120,R,Los Angeles Kings,0,20182019
+Vegas Golden Knights,0,2019-03-18,2018021121,R,San Jose Sharks,0,20182019
+Boston Bruins,0,2019-03-19,2018021123,R,New York Islanders,0,20182019
+Detroit Red Wings,0,2019-03-19,2018021124,R,New York Rangers,0,20182019
+Montréal Canadiens,0,2019-03-19,2018021125,R,Philadelphia Flyers,0,20182019
+Pittsburgh Penguins,0,2019-03-19,2018021126,R,Carolina Hurricanes,0,20182019
+Washington Capitals,0,2019-03-19,2018021122,R,New Jersey Devils,0,20182019
+Edmonton Oilers,0,2019-03-19,2018021127,R,St. Louis Blues,0,20182019
+Toronto Maple Leafs,0,2019-03-19,2018021128,R,Nashville Predators,0,20182019
+Colorado Avalanche,0,2019-03-19,2018021129,R,Minnesota Wild,0,20182019
+Florida Panthers,0,2019-03-19,2018021130,R,Dallas Stars,0,20182019
+Columbus Blue Jackets,0,2019-03-19,2018021131,R,Calgary Flames,0,20182019
+Toronto Maple Leafs,0,2019-03-20,2018021132,R,Buffalo Sabres,0,20182019
+Tampa Bay Lightning,0,2019-03-20,2018021133,R,Washington Capitals,0,20182019
+Ottawa Senators,0,2019-03-20,2018021134,R,Vancouver Canucks,0,20182019
+Winnipeg Jets,0,2019-03-20,2018021135,R,Anaheim Ducks,0,20182019
+Arizona Coyotes,0,2019-03-21,2018021136,R,Florida Panthers,0,20182019
+Boston Bruins,0,2019-03-21,2018021137,R,New Jersey Devils,0,20182019
+Tampa Bay Lightning,0,2019-03-21,2018021138,R,Carolina Hurricanes,0,20182019
+New York Islanders,0,2019-03-21,2018021139,R,Montréal Canadiens,0,20182019
+Detroit Red Wings,0,2019-03-21,2018021140,R,St. Louis Blues,0,20182019
+Pittsburgh Penguins,0,2019-03-21,2018021141,R,Nashville Predators,0,20182019
+Philadelphia Flyers,0,2019-03-21,2018021142,R,Chicago Blackhawks,0,20182019
+Colorado Avalanche,0,2019-03-21,2018021143,R,Dallas Stars,0,20182019
+Ottawa Senators,0,2019-03-21,2018021144,R,Calgary Flames,0,20182019
+Columbus Blue Jackets,0,2019-03-21,2018021145,R,Edmonton Oilers,0,20182019
+Winnipeg Jets,0,2019-03-21,2018021146,R,Vegas Golden Knights,0,20182019
+San Jose Sharks,0,2019-03-21,2018021147,R,Los Angeles Kings,0,20182019
+Minnesota Wild,0,2019-03-22,2018021148,R,Washington Capitals,0,20182019
+San Jose Sharks,0,2019-03-22,2018021149,R,Anaheim Ducks,0,20182019
+Arizona Coyotes,0,2019-03-23,2018021150,R,New Jersey Devils,0,20182019
+New York Islanders,0,2019-03-23,2018021151,R,Philadelphia Flyers,0,20182019
+Chicago Blackhawks,0,2019-03-23,2018021152,R,Colorado Avalanche,0,20182019
+Ottawa Senators,0,2019-03-23,2018021153,R,Edmonton Oilers,0,20182019
+New York Rangers,0,2019-03-23,2018021154,R,Toronto Maple Leafs,0,20182019
+Buffalo Sabres,0,2019-03-23,2018021155,R,Montréal Canadiens,0,20182019
+Boston Bruins,0,2019-03-23,2018021156,R,Florida Panthers,0,20182019
+Minnesota Wild,0,2019-03-23,2018021157,R,Carolina Hurricanes,0,20182019
+Nashville Predators,0,2019-03-23,2018021158,R,Winnipeg Jets,0,20182019
+Tampa Bay Lightning,0,2019-03-23,2018021159,R,St. Louis Blues,0,20182019
+Pittsburgh Penguins,0,2019-03-23,2018021160,R,Dallas Stars,0,20182019
+Calgary Flames,0,2019-03-23,2018021161,R,Vancouver Canucks,0,20182019
+Detroit Red Wings,0,2019-03-23,2018021162,R,Vegas Golden Knights,0,20182019
+Anaheim Ducks,0,2019-03-23,2018021163,R,Los Angeles Kings,0,20182019
+Philadelphia Flyers,0,2019-03-24,2018021164,R,Washington Capitals,0,20182019
+Arizona Coyotes,0,2019-03-24,2018021165,R,New York Islanders,0,20182019
+Montréal Canadiens,0,2019-03-24,2018021166,R,Carolina Hurricanes,0,20182019
+Colorado Avalanche,0,2019-03-24,2018021167,R,Chicago Blackhawks,0,20182019
+Columbus Blue Jackets,0,2019-03-24,2018021168,R,Vancouver Canucks,0,20182019
+Florida Panthers,0,2019-03-25,2018021169,R,Toronto Maple Leafs,0,20182019
+Buffalo Sabres,0,2019-03-25,2018021170,R,New Jersey Devils,0,20182019
+Pittsburgh Penguins,0,2019-03-25,2018021171,R,New York Rangers,0,20182019
+Boston Bruins,0,2019-03-25,2018021172,R,Tampa Bay Lightning,0,20182019
+Vegas Golden Knights,0,2019-03-25,2018021173,R,St. Louis Blues,0,20182019
+Nashville Predators,0,2019-03-25,2018021174,R,Minnesota Wild,0,20182019
+Dallas Stars,0,2019-03-25,2018021175,R,Winnipeg Jets,0,20182019
+Los Angeles Kings,0,2019-03-25,2018021176,R,Calgary Flames,0,20182019
+Detroit Red Wings,0,2019-03-25,2018021177,R,San Jose Sharks,0,20182019
+Carolina Hurricanes,0,2019-03-26,2018021178,R,Washington Capitals,0,20182019
+New York Islanders,0,2019-03-26,2018021179,R,Columbus Blue Jackets,0,20182019
+Florida Panthers,0,2019-03-26,2018021180,R,Montréal Canadiens,0,20182019
+Buffalo Sabres,0,2019-03-26,2018021181,R,Ottawa Senators,0,20182019
+Los Angeles Kings,0,2019-03-26,2018021182,R,Edmonton Oilers,0,20182019
+Anaheim Ducks,0,2019-03-26,2018021183,R,Vancouver Canucks,0,20182019
+Chicago Blackhawks,0,2019-03-26,2018021184,R,Arizona Coyotes,0,20182019
+Toronto Maple Leafs,0,2019-03-27,2018021185,R,Philadelphia Flyers,0,20182019
+New York Rangers,0,2019-03-27,2018021186,R,Boston Bruins,0,20182019
+Dallas Stars,0,2019-03-27,2018021187,R,Calgary Flames,0,20182019
+Vegas Golden Knights,0,2019-03-27,2018021188,R,Colorado Avalanche,0,20182019
+Detroit Red Wings,0,2019-03-28,2018021189,R,Buffalo Sabres,0,20182019
+Washington Capitals,0,2019-03-28,2018021190,R,Carolina Hurricanes,0,20182019
+Montréal Canadiens,0,2019-03-28,2018021191,R,Columbus Blue Jackets,0,20182019
+Florida Panthers,0,2019-03-28,2018021192,R,Ottawa Senators,0,20182019
+New York Islanders,0,2019-03-28,2018021193,R,Winnipeg Jets,0,20182019
+Dallas Stars,0,2019-03-28,2018021194,R,Edmonton Oilers,0,20182019
+Los Angeles Kings,0,2019-03-28,2018021195,R,Vancouver Canucks,0,20182019
+Chicago Blackhawks,0,2019-03-28,2018021196,R,San Jose Sharks,0,20182019
+St. Louis Blues,0,2019-03-29,2018021197,R,New York Rangers,0,20182019
+Nashville Predators,0,2019-03-29,2018021198,R,Pittsburgh Penguins,0,20182019
+New Jersey Devils,0,2019-03-29,2018021199,R,Detroit Red Wings,0,20182019
+Arizona Coyotes,0,2019-03-29,2018021200,R,Colorado Avalanche,0,20182019
+Anaheim Ducks,0,2019-03-29,2018021201,R,Calgary Flames,0,20182019
+Minnesota Wild,0,2019-03-29,2018021202,R,Vegas Golden Knights,0,20182019
+Florida Panthers,0,2019-03-30,2018021204,R,Boston Bruins,0,20182019
+Philadelphia Flyers,0,2019-03-30,2018021203,R,Carolina Hurricanes,0,20182019
+Toronto Maple Leafs,0,2019-03-30,2018021205,R,Ottawa Senators,0,20182019
+Washington Capitals,0,2019-03-30,2018021206,R,Tampa Bay Lightning,0,20182019
+St. Louis Blues,0,2019-03-30,2018021207,R,New Jersey Devils,0,20182019
+Buffalo Sabres,0,2019-03-30,2018021208,R,New York Islanders,0,20182019
+Montréal Canadiens,0,2019-03-30,2018021209,R,Winnipeg Jets,0,20182019
+Columbus Blue Jackets,0,2019-03-30,2018021210,R,Nashville Predators,0,20182019
+Vegas Golden Knights,0,2019-03-30,2018021211,R,San Jose Sharks,0,20182019
+Anaheim Ducks,0,2019-03-30,2018021212,R,Edmonton Oilers,0,20182019
+Dallas Stars,0,2019-03-30,2018021213,R,Vancouver Canucks,0,20182019
+Chicago Blackhawks,0,2019-03-30,2018021214,R,Los Angeles Kings,0,20182019
+New York Rangers,0,2019-03-31,2018021215,R,Philadelphia Flyers,0,20182019
+Carolina Hurricanes,0,2019-03-31,2018021216,R,Pittsburgh Penguins,0,20182019
+Minnesota Wild,0,2019-03-31,2018021217,R,Arizona Coyotes,0,20182019
+Columbus Blue Jackets,0,2019-03-31,2018021218,R,Buffalo Sabres,0,20182019
+Boston Bruins,0,2019-03-31,2018021219,R,Detroit Red Wings,0,20182019
+Calgary Flames,0,2019-03-31,2018021220,R,San Jose Sharks,0,20182019
+Washington Capitals,0,2019-04-01,2018021221,R,Florida Panthers,0,20182019
+New York Rangers,0,2019-04-01,2018021222,R,New Jersey Devils,0,20182019
+Toronto Maple Leafs,0,2019-04-01,2018021223,R,New York Islanders,0,20182019
+Tampa Bay Lightning,0,2019-04-01,2018021224,R,Ottawa Senators,0,20182019
+Colorado Avalanche,0,2019-04-01,2018021225,R,St. Louis Blues,0,20182019
+Winnipeg Jets,0,2019-04-01,2018021226,R,Chicago Blackhawks,0,20182019
+Edmonton Oilers,0,2019-04-01,2018021227,R,Vegas Golden Knights,0,20182019
+Calgary Flames,0,2019-04-01,2018021228,R,Los Angeles Kings,0,20182019
+Nashville Predators,0,2019-04-02,2018021229,R,Buffalo Sabres,0,20182019
+Boston Bruins,0,2019-04-02,2018021230,R,Columbus Blue Jackets,0,20182019
+Carolina Hurricanes,0,2019-04-02,2018021231,R,Toronto Maple Leafs,0,20182019
+Tampa Bay Lightning,0,2019-04-02,2018021232,R,Montréal Canadiens,0,20182019
+Pittsburgh Penguins,0,2019-04-02,2018021233,R,Detroit Red Wings,0,20182019
+Winnipeg Jets,0,2019-04-02,2018021234,R,Minnesota Wild,0,20182019
+Philadelphia Flyers,0,2019-04-02,2018021235,R,Dallas Stars,0,20182019
+Edmonton Oilers,0,2019-04-02,2018021236,R,Colorado Avalanche,0,20182019
+San Jose Sharks,0,2019-04-02,2018021237,R,Vancouver Canucks,0,20182019
+Los Angeles Kings,0,2019-04-02,2018021238,R,Arizona Coyotes,0,20182019
+Ottawa Senators,0,2019-04-03,2018021239,R,New York Rangers,0,20182019
+St. Louis Blues,0,2019-04-03,2018021240,R,Chicago Blackhawks,0,20182019
+Calgary Flames,0,2019-04-03,2018021241,R,Anaheim Ducks,0,20182019
+Ottawa Senators,0,2019-04-04,2018021242,R,Buffalo Sabres,0,20182019
+Tampa Bay Lightning,0,2019-04-04,2018021243,R,Toronto Maple Leafs,0,20182019
+New York Islanders,0,2019-04-04,2018021244,R,Florida Panthers,0,20182019
+Detroit Red Wings,0,2019-04-04,2018021245,R,Pittsburgh Penguins,0,20182019
+Montréal Canadiens,0,2019-04-04,2018021246,R,Washington Capitals,0,20182019
+New Jersey Devils,0,2019-04-04,2018021247,R,Carolina Hurricanes,0,20182019
+Philadelphia Flyers,0,2019-04-04,2018021248,R,St. Louis Blues,0,20182019
+Vancouver Canucks,0,2019-04-04,2018021249,R,Nashville Predators,0,20182019
+Boston Bruins,0,2019-04-04,2018021250,R,Minnesota Wild,0,20182019
+Winnipeg Jets,0,2019-04-04,2018021251,R,Colorado Avalanche,0,20182019
+San Jose Sharks,0,2019-04-04,2018021252,R,Edmonton Oilers,0,20182019
+Arizona Coyotes,0,2019-04-04,2018021253,R,Vegas Golden Knights,0,20182019
+Columbus Blue Jackets,0,2019-04-05,2018021254,R,New York Rangers,0,20182019
+Dallas Stars,0,2019-04-05,2018021255,R,Chicago Blackhawks,0,20182019
+Los Angeles Kings,0,2019-04-05,2018021256,R,Anaheim Ducks,0,20182019
+Tampa Bay Lightning,0,2019-04-06,2018021257,R,Boston Bruins,0,20182019
+Vancouver Canucks,0,2019-04-06,2018021258,R,St. Louis Blues,0,20182019
+Toronto Maple Leafs,0,2019-04-06,2018021259,R,Montréal Canadiens,0,20182019
+Columbus Blue Jackets,0,2019-04-06,2018021260,R,Ottawa Senators,0,20182019
+Buffalo Sabres,0,2019-04-06,2018021261,R,Detroit Red Wings,0,20182019
+New Jersey Devils,0,2019-04-06,2018021262,R,Florida Panthers,0,20182019
+Carolina Hurricanes,0,2019-04-06,2018021263,R,Philadelphia Flyers,0,20182019
+New York Rangers,0,2019-04-06,2018021264,R,Pittsburgh Penguins,0,20182019
+New York Islanders,0,2019-04-06,2018021265,R,Washington Capitals,0,20182019
+Chicago Blackhawks,0,2019-04-06,2018021266,R,Nashville Predators,0,20182019
+Minnesota Wild,0,2019-04-06,2018021267,R,Dallas Stars,0,20182019
+Edmonton Oilers,0,2019-04-06,2018021268,R,Calgary Flames,0,20182019
+Winnipeg Jets,0,2019-04-06,2018021269,R,Arizona Coyotes,0,20182019
+Vegas Golden Knights,0,2019-04-06,2018021270,R,Los Angeles Kings,0,20182019
+Colorado Avalanche,0,2019-04-06,2018021271,R,San Jose Sharks,0,20182019

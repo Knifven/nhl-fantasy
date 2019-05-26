@@ -1,0 +1,157 @@
+[
+    {
+        "team": "Anaheim Ducks",
+        "rgb_primary": "252,76,2",
+        "rgb_secondary": "176,152,98"
+    },
+    {
+        "team": "Arizona Coyotes",
+        "rgb_primary": "140,38,51",
+        "rgb_secondary": "226,214,181"
+    },
+    {
+        "team": "Boston Bruins",
+        "rgb_primary": "17,17,17",
+        "rgb_secondary": "252,181,20"
+    },
+    {
+        "team": "Buffalo Sabres",
+        "rgb_primary": "0,38,84",
+        "rgb_secondary": "252,181,20"
+    },
+    {
+        "team": "Calgary Flames",
+        "rgb_primary": "200,16,46",
+        "rgb_secondary": "241, 190, 72"
+    },
+    {
+        "team": "Carolina Hurricanes",
+        "rgb_primary": "226,24,54",
+        "rgb_secondary": "35,31,32"
+    },
+    {
+        "team": "Chicago Blackhawks",
+        "rgb_primary": "207,10,44",
+        "rgb_secondary": "0,0,0"
+    },
+    {
+        "team": "Colorado Avalanche",
+        "rgb_primary": "111,38,61",
+        "rgb_secondary": "35,97,146"
+    },
+    {
+        "team": "Columbus Blue Jackets",
+        "rgb_primary": "0,38,84",
+        "rgb_secondary": "206,17,38"
+    },
+    {
+        "team": "Dallas Stars",
+        "rgb_primary": "0,104,71",
+        "rgb_secondary": "143,143,140"
+    },
+    {
+        "team": "Detroit Red Wings",
+        "rgb_primary": "206,17,38",
+        "rgb_secondary": "206,17,38"
+    },
+    {
+        "team": "Edmonton Oilers",
+        "rgb_primary": "4,30,66",
+        "rgb_secondary": "252,76,0"
+    },
+    {
+        "team": "Florida Panthers",
+        "rgb_primary": "200,16,46",
+        "rgb_secondary": "185,151,91"
+    },
+    {
+        "team": "Los Angeles Kings",
+        "rgb_primary": "17,17,17",
+        "rgb_secondary": "162,170,173"
+    },
+    {
+        "team": "Minnesota Wild",
+        "rgb_primary": "2,73,48",
+        "rgb_secondary": "175,35,36"
+    },
+    {
+        "team": "Montréal Canadiens",
+        "rgb_primary": "175,30,45",
+        "rgb_secondary": "25,33,104"
+    },
+    {
+        "team": "Nashville Predators",
+        "rgb_primary": "255,184,28",
+        "rgb_secondary": "4,30,66"
+    },
+    {
+        "team": "New Jersey Devils",
+        "rgb_primary": "206,17,38",
+        "rgb_secondary": "0,0,0"
+    },
+    {
+        "team": "New York Islanders",
+        "rgb_primary": "0,83,155",
+        "rgb_secondary": "244,125,48"
+    },
+    {
+        "team": "New York Rangers",
+        "rgb_primary": "0,56,168",
+        "rgb_secondary": "206,17,38"
+    },
+    {
+        "team": "Ottawa Senators",
+        "rgb_primary": "200,16,46",
+        "rgb_secondary": "0,0,0"
+    },
+    {
+        "team": "Philadelphia Flyers",
+        "rgb_primary": "247,73,2",
+        "rgb_secondary": "0,0,0"
+    },
+    {
+        "team": "Pittsburgh Penguins",
+        "rgb_primary": "0,0,0",
+        "rgb_secondary": "252,181,20"
+    },
+    {
+        "team": "St. Louis Blues",
+        "rgb_primary": "0,47,135",
+        "rgb_secondary": "252,181,20"
+    },
+    {
+        "team": "San Jose Sharks",
+        "rgb_primary": "0,109,117",
+        "rgb_secondary": "0,0,0"
+    },
+    {
+        "team": "Tampa Bay Lightning",
+        "rgb_primary": "0,40,104",
+        "rgb_secondary": "0,0,0"
+    },
+    {
+        "team": "Toronto Maple Leafs",
+        "rgb_primary": "0,62,126",
+        "rgb_secondary": "0,62,126"
+    },
+    {
+        "team": "Vancouver Canucks",
+        "rgb_primary": "0,31,91",
+        "rgb_secondary": "10,134,61"
+    },
+    {
+        "team": "Vegas Golden Knights",
+        "rgb_primary": "185,151,91",
+        "rgb_secondary": "51,63,72"
+    },
+    {
+        "team": "Washington Capitals",
+        "rgb_primary": "200,16,46",
+        "rgb_secondary": "4,30,66"
+    },
+    {
+        "team": "Winnipeg Jets",
+        "rgb_primary": "4,30,66",
+        "rgb_secondary": "172,22,44"
+    }
+]
